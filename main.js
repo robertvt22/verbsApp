@@ -39,6 +39,16 @@ const vocabulary = [
         germanAuxiliary: "hat", // Correct auxiliary verb
         germanPerfect: "gelesen",
     },
+    {
+        word: "to name / heißen",
+        englishPresent: "names",
+        englishPreterit: "named",
+        englishPerfect: "named",
+        germanPresent: "heißt",
+        germanImperfect: "hieß",
+        germanAuxiliary: "hat", // Correct auxiliary verb
+        germanPerfect: "geheißen",
+    },
     // Add more words and their conjugations here
 ];
 
