@@ -49,6 +49,16 @@ const vocabulary = [
         germanAuxiliary: "hat", // Correct auxiliary verb
         germanPerfect: "geheißen",
     },
+    {
+        word: "to lay / liegen",
+        englishPresent: "lays",
+        englishPreterit: "laid",
+        englishPerfect: "laid",
+        germanPresent: "liegt",
+        germanImperfect: "lug",
+        germanAuxiliary: "hat", // Correct auxiliary verb
+        germanPerfect: "gelegen",
+    },
     // Add more words and their conjugations here
 ];
 
