@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -13,36 +14,43 @@
         <div id="word-container">
             <p id="word"></p>
         </div>
+
+        <!-- English Fields -->
         <div class="input-group">
             <label for="english-present">English Present (3rd person):</label>
             <input type="text" id="english-present">
+            <span id="english-present-check"></span>
         </div>
         <div class="input-group">
             <label for="english-preterit">English Preterit:</label>
             <input type="text" id="english-preterit">
+            <span id="english-preterit-check"></span>
         </div>
         <div class="input-group">
             <label for="english-perfect">English Perfect:</label>
             <input type="text" id="english-perfect">
+            <span id="english-perfect-check"></span>
         </div>
+
+        <!-- German Fields -->
         <div class="input-group">
             <label for="german-present">German Present (3rd person):</label>
             <input type="text" id="german-present">
+            <span id="german-present-check"></span>
         </div>
         <div class="input-group">
             <label for="german-imperfect">German Imperfect:</label>
             <input type="text" id="german-imperfect">
-        </div>
-        <div class="input-group">
-            <label for="german-auxiliary">German Auxiliary Verb (3rd person):</label>
-            <input type="text" id="german-auxiliary">
+            <span id="german-imperfect-check"></span>
         </div>
         <div class="input-group">
             <label for="german-perfect">German Perfect:</label>
             <input type="text" id="german-perfect">
+            <span id="german-perfect-check"></span>
         </div>
+
         <button id="submit-button">Submit</button>
-        <button id="next-word-button">Next Word</button> <!-- New Button -->
+        <button id="next-word-button" disabled>Next Word</button>
         <p id="result"></p>
     </div>
 

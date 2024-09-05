@@ -21,6 +21,7 @@ body {
 
 .input-group {
     margin-bottom: 15px;
+    position: relative;
 }
 
 label {
@@ -32,7 +33,7 @@ label {
 input {
     padding: 10px;
     font-size: 16px;
-    width: 80%;
+    width: 70%;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -48,11 +49,38 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+button:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
+
+button:hover:enabled {
     background-color: #218838;
 }
 
 #result {
     margin-top: 20px;
     font-size: 18px;
+}
+
+.result-icon {
+    font-size: 18px;
+    color: green;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.voice-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 5px;
+    outline: none;
+}
+
+.voice-button:hover {
+    color: #007bff;
+    outline: none;
 }

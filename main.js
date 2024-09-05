@@ -6,8 +6,7 @@ const vocabulary = [
         englishPerfect: "been",
         germanPresent: "ist",
         germanImperfect: "war",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gewesen",
+        germanPerfect: "ist gewesen",
     },
     {
         word: "to have / haben",
@@ -16,8 +15,7 @@ const vocabulary = [
         englishPerfect: "had",
         germanPresent: "hat",
         germanImperfect: "hatte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gehabt",
+        germanPerfect: "hat gehabt",
     },
     {
         word: "to go / gehen",
@@ -26,8 +24,7 @@ const vocabulary = [
         englishPerfect: "gone",
         germanPresent: "geht",
         germanImperfect: "ging",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gegangen",
+        germanPerfect: "ist gegangen",
     },
     {
         word: "to read / lesen",
@@ -36,8 +33,7 @@ const vocabulary = [
         englishPerfect: "read",
         germanPresent: "liest",
         germanImperfect: "las",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gelesen",
+        germanPerfect: "hat gelesen",
     },
     {
         word: "to name / heißen",
@@ -46,8 +42,7 @@ const vocabulary = [
         englishPerfect: "named",
         germanPresent: "heißt",
         germanImperfect: "hieß",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geheißen",
+        germanPerfect: "hat geheißen",
     },
     {
         word: "to lay / liegen",
@@ -56,8 +51,7 @@ const vocabulary = [
         englishPerfect: "laid",
         germanPresent: "liegt",
         germanImperfect: "lug",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gelegen",
+        germanPerfect: "hat gelegen",
     },
     {
         word: "to speak / sprechen",
@@ -66,8 +60,7 @@ const vocabulary = [
         englishPerfect: "spoken",
         germanPresent: "spricht",
         germanImperfect: "sprach",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesprochen",
+        germanPerfect: "hat gesprochen",
     },
     {
         word: "to tell / sprechen",
@@ -76,8 +69,7 @@ const vocabulary = [
         englishPerfect: "told",
         germanPresent: "spricht",
         germanImperfect: "sprach",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesprochen",
+        germanPerfect: "hat gesprochen",
     },
     {
         word: "to wish / möchten",
@@ -86,8 +78,7 @@ const vocabulary = [
         englishPerfect: "wished",
         germanPresent: "möchte",
         germanImperfect: "möchtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "möchtet",
+        germanPerfect: "hat möchtet",
     },
     {
         word: "to study / studieren",
@@ -96,8 +87,7 @@ const vocabulary = [
         englishPerfect: "studied",
         germanPresent: "studiert",
         germanImperfect: "studierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "studiert",
+        germanPerfect: "hat studiert",
     },
     {
         word: "to learn / lernen",
@@ -106,8 +96,7 @@ const vocabulary = [
         englishPerfect: "learned",
         germanPresent: "lernt",
         germanImperfect: "lernte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gelernt",
+        germanPerfect: "hat gelernt",
     },
     {
         word: "to come / kommen",
@@ -116,8 +105,7 @@ const vocabulary = [
         englishPerfect: "come",
         germanPresent: "kommt",
         germanImperfect: "kam",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gekommen",
+        germanPerfect: "ist gekommen",
     },
     {
         word: "to repair / reparieren",
@@ -126,8 +114,7 @@ const vocabulary = [
         englishPerfect: "repaired",
         germanPresent: "repaiert",
         germanImperfect: "reparierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "repariert",
+        germanPerfect: "hat repariert",
     },
     {
         word: "to live / wohnen",
@@ -136,8 +123,7 @@ const vocabulary = [
         englishPerfect: "lived",
         germanPresent: "wohnt",
         germanImperfect: "wohnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewohnt",
+        germanPerfect: "hat gewohnt",
     },
     {
         word: "to wish / möchten",
@@ -146,8 +132,7 @@ const vocabulary = [
         englishPerfect: "wished",
         germanPresent: "möchte",
         germanImperfect: "möchtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "möchtet",
+        germanPerfect: "hat möchtet",
     },
     {
         word: "to visit / besuchen",
@@ -156,8 +141,7 @@ const vocabulary = [
         englishPerfect: "visited",
         germanPresent: "besucht",
         germanImperfect: "besuchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besucht",
+        germanPerfect: "hat besucht",
     },
     {
         word: "to attend / besuchen",
@@ -166,8 +150,7 @@ const vocabulary = [
         englishPerfect: "attended",
         germanPresent: "besucht",
         germanImperfect: "besuchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besucht",
+        germanPerfect: "hat besucht",
     },
     {
         word: "to come with / mitkommen",
@@ -176,8 +159,7 @@ const vocabulary = [
         englishPerfect: "come with",
         germanPresent: "kommt mit",
         germanImperfect: "kam mit",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "mitgekommen",
+        germanPerfect: "ist mitgekommen",
     },
     {
         word: "to do / tun",
@@ -186,8 +168,7 @@ const vocabulary = [
         englishPerfect: "done",
         germanPresent: "tut",
         germanImperfect: "tat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "getan",
+        germanPerfect: "hat getan",
     },
     {
         word: "to make / machen",
@@ -196,8 +177,7 @@ const vocabulary = [
         englishPerfect: "made",
         germanPresent: "macht",
         germanImperfect: "machte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemacht",
+        germanPerfect: "hat gemacht",
     },
     {
         word: "to drink / trinken",
@@ -206,8 +186,7 @@ const vocabulary = [
         englishPerfect: "drunk",
         germanPresent: "trinkt",
         germanImperfect: "trank",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "getrunken",
+        germanPerfect: "hat getrunken",
     },
     {
         word: "to eat / essen",
@@ -216,8 +195,7 @@ const vocabulary = [
         englishPerfect: "eaten",
         germanPresent: "isst",
         germanImperfect: "aß",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegessen",
+        germanPerfect: "hat gegessen",
     },
     {
         word: "to shower / dushen",
@@ -226,8 +204,7 @@ const vocabulary = [
         englishPerfect: "showered",
         germanPresent: "duscht",
         germanImperfect: "duschte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geduscht",
+        germanPerfect: "hat geduscht",
     },
     {
         word: "to take a shower / dushen",
@@ -236,8 +213,7 @@ const vocabulary = [
         englishPerfect: "taken a shower",
         germanPresent: "duscht",
         germanImperfect: "duschte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geduscht",
+        germanPerfect: "hat geduscht",
     },
     {
         word: "to drive / fahren",
@@ -246,8 +222,7 @@ const vocabulary = [
         englishPerfect: "driven",
         germanPresent: "fährt",
         germanImperfect: "fuhr",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefahren",
+        germanPerfect: "ist gefahren",
     },
     {
         word: "to work / arbeiten",
@@ -256,8 +231,7 @@ const vocabulary = [
         englishPerfect: "worked",
         germanPresent: "arbeitet",
         germanImperfect: "arbeitete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gearbeitet",
+        germanPerfect: "hat gearbeitet",
     },
     {
         word: "to close / schließen",
@@ -266,8 +240,7 @@ const vocabulary = [
         englishPerfect: "closed",
         germanPresent: "schließt",
         germanImperfect: "schloss",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschlossen",
+        germanPerfect: "hat geschlossen",
     },
     {
         word: "to hear / hören",
@@ -276,8 +249,7 @@ const vocabulary = [
         englishPerfect: "heard",
         germanPresent: "hört",
         germanImperfect: "hörte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gehört",
+        germanPerfect: "hat gehört",
     },
     {
         word: "to sleep / schlafen",
@@ -286,8 +258,7 @@ const vocabulary = [
         englishPerfect: "slept",
         germanPresent: "schläft",
         germanImperfect: "schlief",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschlafen",
+        germanPerfect: "hat geschlafen",
     },
     {
         word: "to belong / gehören",
@@ -296,8 +267,7 @@ const vocabulary = [
         englishPerfect: "belonged",
         germanPresent: "gehört",
         germanImperfect: "gehörte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gehört",
+        germanPerfect: "hat gehört",
     },
     {
         word: "to buy / kaufen",
@@ -306,8 +276,7 @@ const vocabulary = [
         englishPerfect: "bought",
         germanPresent: "kauft",
         germanImperfect: "kaufte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gekauft",
+        germanPerfect: "hat gekauft",
     },
     {
         word: "to purchase / kaufen",
@@ -316,8 +285,7 @@ const vocabulary = [
         englishPerfect: "purchased",
         germanPresent: "kauft",
         germanImperfect: "kaufte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gekauft",
+        germanPerfect: "hat gekauft",
     },
     {
         word: "to find / finden",
@@ -326,8 +294,7 @@ const vocabulary = [
         englishPerfect: "found",
         germanPresent: "findet",
         germanImperfect: "fand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefunden",
+        germanPerfect: "hat gefunden",
     },
     {
         word: "to discover / finden",
@@ -336,8 +303,7 @@ const vocabulary = [
         englishPerfect: "discovered",
         germanPresent: "findet",
         germanImperfect: "fand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefunden",
+        germanPerfect: "hat gefunden",
     },
     {
         word: "to spot / finden",
@@ -346,8 +312,7 @@ const vocabulary = [
         englishPerfect: "spotted",
         germanPresent: "findet",
         germanImperfect: "fand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefunden",
+        germanPerfect: "hat gefunden",
     },
     {
         word: "to give / geben",
@@ -356,8 +321,7 @@ const vocabulary = [
         englishPerfect: "given",
         germanPresent: "gibt",
         germanImperfect: "gab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegeben",
+        germanPerfect: "hat gegeben",
     },
     {
         word: "to shine / scheinen",
@@ -366,8 +330,7 @@ const vocabulary = [
         englishPerfect: "shone/shined",
         germanPresent: "scheint",
         germanImperfect: "schien",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschienen",
+        germanPerfect: "hat geschienen",
     },
     {
         word: "to bath / baden",
@@ -376,8 +339,7 @@ const vocabulary = [
         englishPerfect: "bathed",
         germanPresent: "badet",
         germanImperfect: "badete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebadet",
+        germanPerfect: "hat gebadet",
     },
     {
         word: "to wash / baden",
@@ -386,8 +348,7 @@ const vocabulary = [
         englishPerfect: "washed",
         germanPresent: "badet",
         germanImperfect: "badete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebadet",
+        germanPerfect: "hat gebadet",
     },
     {
         word: "to be glad / freuen (sich)",
@@ -396,8 +357,7 @@ const vocabulary = [
         englishPerfect: "been glad",
         germanPresent: "freut",
         germanImperfect: "freute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefreut",
+        germanPerfect: "hat gefreut",
     },
     {
         word: "to spend time / verbringen",
@@ -406,8 +366,7 @@ const vocabulary = [
         englishPerfect: "spent",
         germanPresent: "verbringt",
         germanImperfect: "verbrachte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verbracht",
+        germanPerfect: "hat verbracht",
     },
     {
         word: "to take time / verbringen",
@@ -416,8 +375,7 @@ const vocabulary = [
         englishPerfect: "taken",
         germanPresent: "verbringt",
         germanImperfect: "verbrachte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verbracht",
+        germanPerfect: "hat verbracht",
     },
     {
         word: "to show / zeigen",
@@ -426,8 +384,7 @@ const vocabulary = [
         englishPerfect: "showed",
         germanPresent: "zeigt",
         germanImperfect: "zeigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gezeigt",
+        germanPerfect: "hat gezeigt",
     },
     {
         word: "to present / zeigen",
@@ -436,8 +393,7 @@ const vocabulary = [
         englishPerfect: "presented",
         germanPresent: "zeigt",
         germanImperfect: "zeigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gezeigt",
+        germanPerfect: "hat gezeigt",
     },
     {
         word: "to tell / erzählen",
@@ -446,8 +402,7 @@ const vocabulary = [
         englishPerfect: "told",
         germanPresent: "erzählt",
         germanImperfect: "erzählte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erzählt",
+        germanPerfect: "hat erzählt",
     },
     {
         word: "to talk / erzählen",
@@ -456,8 +411,7 @@ const vocabulary = [
         englishPerfect: "talked",
         germanPresent: "erzählt",
         germanImperfect: "erzählte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erzählt",
+        germanPerfect: "hat erzählt",
     },
     {
         word: "to narrate / erzählen",
@@ -466,8 +420,7 @@ const vocabulary = [
         englishPerfect: "narrated",
         germanPresent: "erzählt",
         germanImperfect: "erzählte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erzählt",
+        germanPerfect: "hat erzählt",
     },
     {
         word: "to miss / vermissen",
@@ -476,8 +429,7 @@ const vocabulary = [
         englishPerfect: "missed",
         germanPresent: "vermisst",
         germanImperfect: "vermisste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vermisst",
+        germanPerfect: "hat vermisst",
     },
     {
         word: "to regret / vermissen",
@@ -486,8 +438,7 @@ const vocabulary = [
         englishPerfect: "regretted",
         germanPresent: "vermisst",
         germanImperfect: "vermisste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vermisst",
+        germanPerfect: "hat vermisst",
     },
     {
         word: "to like / gefallen",
@@ -496,8 +447,7 @@ const vocabulary = [
         englishPerfect: "liked",
         germanPresent: "gefällt",
         germanImperfect: "gefiel",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefallen",
+        germanPerfect: "hat gefallen",
     },
     {
         word: "to enjoy / gefallen",
@@ -506,8 +456,7 @@ const vocabulary = [
         englishPerfect: "enjoyed",
         germanPresent: "gefällt",
         germanImperfect: "gefiel",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefallen",
+        germanPerfect: "hat gefallen",
     },
     {
         word: "to delight / gefallen",
@@ -516,8 +465,7 @@ const vocabulary = [
         englishPerfect: "delighted",
         germanPresent: "gefällt",
         germanImperfect: "gefiel",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefallen",
+        germanPerfect: "hat gefallen",
     },
     {
         word: "to walk / spazieren",
@@ -526,8 +474,7 @@ const vocabulary = [
         englishPerfect: "walked",
         germanPresent: "spaziert",
         germanImperfect: "spazierte",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "spaziert",
+        germanPerfect: "ist spaziert",
     },
     {
         word: "to shop / einkaufen",
@@ -536,8 +483,7 @@ const vocabulary = [
         englishPerfect: "shopped",
         germanPresent: "kauft ein",
         germanImperfect: "kaufte ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingekauft",
+        germanPerfect: "hat eingekauft",
     },
     {
         word: "to do shopping / einkaufen",
@@ -546,8 +492,7 @@ const vocabulary = [
         englishPerfect: "done shopping",
         germanPresent: "kauft ein",
         germanImperfect: "kaufte ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingekauft",
+        germanPerfect: "hat eingekauft",
     },
     {
         word: "to go shopping / einkaufen",
@@ -556,8 +501,7 @@ const vocabulary = [
         englishPerfect: "gone shopping",
         germanPresent: "kauft ein",
         germanImperfect: "kaufte ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingekauft",
+        germanPerfect: "hat eingekauft",
     },
     {
         word: "to say / sagen",
@@ -566,8 +510,7 @@ const vocabulary = [
         englishPerfect: "said",
         germanPresent: "sagt",
         germanImperfect: "sagte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesagt",
+        germanPerfect: "hat gesagt",
     },
     {
         word: "to tell / sagen",
@@ -576,8 +519,7 @@ const vocabulary = [
         englishPerfect: "told",
         germanPresent: "sagt",
         germanImperfect: "sagte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesagt",
+        germanPerfect: "hat gesagt",
     },
     {
         word: "to promise / versprechen",
@@ -586,8 +528,7 @@ const vocabulary = [
         englishPerfect: "promised",
         germanPresent: "verspricht",
         germanImperfect: "versprach",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "versprochen",
+        germanPerfect: "hat versprochen",
     },
     {
         word: "to forget / vergessen",
@@ -596,8 +537,7 @@ const vocabulary = [
         englishPerfect: "forgotten",
         germanPresent: "vergisst",
         germanImperfect: "vergaß",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vergessen",
+        germanPerfect: "hat vergessen",
     },
     {
         word: "to write / schreiben",
@@ -606,8 +546,7 @@ const vocabulary = [
         englishPerfect: "written",
         germanPresent: "schreibt",
         germanImperfect: "schrieb",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschrieben",
+        germanPerfect: "hat geschrieben",
     },
     {
         word: "to beg / bitten",
@@ -616,8 +555,7 @@ const vocabulary = [
         englishPerfect: "begged",
         germanPresent: "bittet",
         germanImperfect: "bat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten",
+        germanPerfect: "hat gebeten",
     },
     {
         word: "to pray / bitten",
@@ -626,8 +564,7 @@ const vocabulary = [
         englishPerfect: "prayed",
         germanPresent: "bittet",
         germanImperfect: "bat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten",
+        germanPerfect: "hat gebeten",
     },
     {
         word: "to implore / bitten",
@@ -636,8 +573,7 @@ const vocabulary = [
         englishPerfect: "implored",
         germanPresent: "bittet",
         germanImperfect: "bat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten",
+        germanPerfect: "hat gebeten",
     },
     {
         word: "to request / bitten",
@@ -646,8 +582,7 @@ const vocabulary = [
         englishPerfect: "requested",
         germanPresent: "bittet",
         germanImperfect: "bat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten",
+        germanPerfect: "hat gebeten",
     },
     {
         word: "to solicit / bitten",
@@ -656,8 +591,7 @@ const vocabulary = [
         englishPerfect: "solicited",
         germanPresent: "bittet",
         germanImperfect: "bat",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten",
+        germanPerfect: "hat gebeten",
     },
     {
         word: "to ask / fragen",
@@ -666,8 +600,7 @@ const vocabulary = [
         englishPerfect: "asked",
         germanPresent: "fragt",
         germanImperfect: "fragte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefragt",
+        germanPerfect: "hat gefragt",
     },
     {
         word: "to call / fragen",
@@ -676,8 +609,7 @@ const vocabulary = [
         englishPerfect: "called",
         germanPresent: "fragt",
         germanImperfect: "fragte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefragt",
+        germanPerfect: "hat gefragt",
     },
     {
         word: "to remain / bleiben",
@@ -686,8 +618,7 @@ const vocabulary = [
         englishPerfect: "remained",
         germanPresent: "bleibt",
         germanImperfect: "blieb",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "geblieben",
+        germanPerfect: "hat geblieben",
     },
     {
         word: "to stay / bleiben",
@@ -696,8 +627,7 @@ const vocabulary = [
         englishPerfect: "stayed",
         germanPresent: "bleibt",
         germanImperfect: "blieb",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "geblieben",
+        germanPerfect: "hat geblieben",
     },
     {
         word: "to find out / erkundigen (sich)",
@@ -706,8 +636,7 @@ const vocabulary = [
         englishPerfect: "found out",
         germanPresent: "erkundigt",
         germanImperfect: "erkundigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erkundigt",
+        germanPerfect: "hat erkundigt",
     },
     {
         word: "to ask about / erkundigen (sich)",
@@ -716,8 +645,7 @@ const vocabulary = [
         englishPerfect: "asked about",
         germanPresent: "erkundigt",
         germanImperfect: "erkundigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erkundigt",
+        germanPerfect: "hat erkundigt",
     },
     {
         word: "to enquire / erkundigen (sich)",
@@ -726,8 +654,7 @@ const vocabulary = [
         englishPerfect: "enquired",
         germanPresent: "erkundigt",
         germanImperfect: "erkundigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erkundigt",
+        germanPerfect: "hat erkundigt",
     },
     {
         word: "to ask for / bitten um",
@@ -736,8 +663,7 @@ const vocabulary = [
         englishPerfect: "asked for",
         germanPresent: "bittet um",
         germanImperfect: "bat um",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebeten um",
+        germanPerfect: "hat gebeten um",
     },
     {
         word: "to ask for / fragen nach",
@@ -746,8 +672,7 @@ const vocabulary = [
         englishPerfect: "asked for",
         germanPresent: "fragt nach",
         germanImperfect: "fragte nach",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefragt nach",
+        germanPerfect: "hat gefragt nach",
     },
     {
         word: "to inquire for / fragen nach",
@@ -756,8 +681,7 @@ const vocabulary = [
         englishPerfect: "inquired for",
         germanPresent: "fragt nach",
         germanImperfect: "fragte nach",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefragt nach",
+        germanPerfect: "hat gefragt nach",
     },
     {
         word: "to have a conversation / unterhalten (sich)",
@@ -766,8 +690,7 @@ const vocabulary = [
         englishPerfect: "had a conversation",
         germanPresent: "unterhält",
         germanImperfect: "unterhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "unterhalten",
+        germanPerfect: "hat unterhalten",
     },
     {
         word: "to entertain / unterhalten (sich)",
@@ -776,8 +699,7 @@ const vocabulary = [
         englishPerfect: "entertained",
         germanPresent: "unterhält",
         germanImperfect: "unterhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "unterhalten",
+        germanPerfect: "hat unterhalten",
     },
     {
         word: "to talk to / unterhalten (sich)",
@@ -786,8 +708,7 @@ const vocabulary = [
         englishPerfect: "talked to",
         germanPresent: "unterhält",
         germanImperfect: "unterhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "unterhalten",
+        germanPerfect: "hat unterhalten",
     },
     {
         word: "to see / sehen",
@@ -796,8 +717,7 @@ const vocabulary = [
         englishPerfect: "seen",
         germanPresent: "sieht",
         germanImperfect: "sah",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehen",
+        germanPerfect: "hat gesehen",
     },
     {
         word: "to view / sehen",
@@ -806,8 +726,7 @@ const vocabulary = [
         englishPerfect: "viewed",
         germanPresent: "sieht",
         germanImperfect: "sah",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehen",
+        germanPerfect: "hat gesehen",
     },
     {
         word: "to watch / sehen",
@@ -816,8 +735,7 @@ const vocabulary = [
         englishPerfect: "watched",
         germanPresent: "sieht",
         germanImperfect: "sah",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehen",
+        germanPerfect: "hat gesehen",
     },
     {
         word: "to look / sehen",
@@ -826,8 +744,7 @@ const vocabulary = [
         englishPerfect: "looked",
         germanPresent: "sieht",
         germanImperfect: "sah",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehen",
+        germanPerfect: "hat gesehen",
     },
     {
         word: "to travel / reisen",
@@ -836,8 +753,7 @@ const vocabulary = [
         englishPerfect: "travelled",
         germanPresent: "reist",
         germanImperfect: "reiste",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gereist",
+        germanPerfect: "ist gereist",
     },
     {
         word: "to tour / reisen",
@@ -846,8 +762,7 @@ const vocabulary = [
         englishPerfect: "toured",
         germanPresent: "reist",
         germanImperfect: "reiste",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gereist",
+        germanPerfect: "ist gereist",
     },
     {
         word: "to look around / besichtigen",
@@ -856,8 +771,7 @@ const vocabulary = [
         englishPerfect: "looked around",
         germanPresent: "besichtigt",
         germanImperfect: "besichtigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besichtigt",
+        germanPerfect: "hat besichtigt",
     },
     {
         word: "to view / besichtigen",
@@ -866,8 +780,7 @@ const vocabulary = [
         englishPerfect: "viewed",
         germanPresent: "besichtigt",
         germanImperfect: "besichtigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besichtigt",
+        germanPerfect: "hat besichtigt",
     },
     {
         word: "to visit / besichtigen",
@@ -876,8 +789,7 @@ const vocabulary = [
         englishPerfect: "visited",
         germanPresent: "besichtigt",
         germanImperfect: "besichtigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besichtigt",
+        germanPerfect: "hat besichtigt",
     },
     {
         word: "to inspect / besichtigen",
@@ -886,8 +798,7 @@ const vocabulary = [
         englishPerfect: "inspected",
         germanPresent: "besichtigt",
         germanImperfect: "besichtigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besichtigt",
+        germanPerfect: "hat besichtigt",
     },
     {
         word: "to search / suchen",
@@ -896,8 +807,7 @@ const vocabulary = [
         englishPerfect: "searched",
         germanPresent: "sucht",
         germanImperfect: "suchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesucht",
+        germanPerfect: "hat gesucht",
     },
     {
         word: "to seek / suchen",
@@ -906,8 +816,7 @@ const vocabulary = [
         englishPerfect: "sought",
         germanPresent: "sucht",
         germanImperfect: "suchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesucht",
+        germanPerfect: "hat gesucht",
     },
     {
         word: "to search for / suchen",
@@ -916,8 +825,7 @@ const vocabulary = [
         englishPerfect: "searched for",
         germanPresent: "sucht",
         germanImperfect: "suchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesucht",
+        germanPerfect: "hat gesucht",
     },
     {
         word: "to look for / suchen",
@@ -926,8 +834,7 @@ const vocabulary = [
         englishPerfect: "looked for",
         germanPresent: "sucht",
         germanImperfect: "suchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesucht",
+        germanPerfect: "hat gesucht",
     },
     {
         word: "to help / helfen",
@@ -936,8 +843,7 @@ const vocabulary = [
         englishPerfect: "helped",
         germanPresent: "hilft",
         germanImperfect: "half",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geholfen",
+        germanPerfect: "hat geholfen",
     },
     {
         word: "to give a hand / helfen",
@@ -946,8 +852,7 @@ const vocabulary = [
         englishPerfect: "given a hand",
         germanPresent: "hilft",
         germanImperfect: "half",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geholfen",
+        germanPerfect: "hat geholfen",
     },
     {
         word: "to explain / erklären",
@@ -956,8 +861,7 @@ const vocabulary = [
         englishPerfect: "explained",
         germanPresent: "erklärt",
         germanImperfect: "erklärte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erklärt",
+        germanPerfect: "hat erklärt",
     },
     {
         word: "to declare / erklären",
@@ -966,8 +870,7 @@ const vocabulary = [
         englishPerfect: "declared",
         germanPresent: "erklärt",
         germanImperfect: "erklärte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erklärt",
+        germanPerfect: "hat erklärt",
     },
     {
         word: "to run / rennen",
@@ -976,8 +879,7 @@ const vocabulary = [
         englishPerfect: "run",
         germanPresent: "rennt",
         germanImperfect: "rannte",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gerannt",
+        germanPerfect: "hat gerannt",
     },
     {
         word: "to play / spielen",
@@ -986,8 +888,7 @@ const vocabulary = [
         englishPerfect: "played",
         germanPresent: "spielt",
         germanImperfect: "spielte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gespielt",
+        germanPerfect: "hat gespielt",
     },
     {
         word: "to become / werden",
@@ -996,8 +897,7 @@ const vocabulary = [
         englishPerfect: "become",
         germanPresent: "wird",
         germanImperfect: "wurde",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "geworden",
+        germanPerfect: "ist geworden",
     },
     {
         word: "to go out / ausgehen",
@@ -1006,8 +906,7 @@ const vocabulary = [
         englishPerfect: "gone out",
         germanPresent: "geht aus",
         germanImperfect: "ging aus",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "ausgegangen",
+        germanPerfect: "ist ausgegangen",
     },
     {
         word: "to come out / ausgehen",
@@ -1016,8 +915,7 @@ const vocabulary = [
         englishPerfect: "come out",
         germanPresent: "geht aus",
         germanImperfect: "ging aus",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "ausgegangen",
+        germanPerfect: "ist ausgegangen",
     },
     {
         word: "to worry / machen sich Sorgen",
@@ -1026,8 +924,7 @@ const vocabulary = [
         englishPerfect: "worried",
         germanPresent: "macht sich Sorgen",
         germanImperfect: "machte sich Sorgen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemacht sich Sorgen",
+        germanPerfect: "hat gemacht sich Sorgen",
     },
     {
         word: "to make worry / machen sich Sorgen",
@@ -1036,8 +933,7 @@ const vocabulary = [
         englishPerfect: "made worry",
         germanPresent: "macht sich Sorgen",
         germanImperfect: "machte sich Sorgen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemacht sich Sorgen",
+        germanPerfect: "hat gemacht sich Sorgen",
     },
     {
         word: "to cut off / abschneiden",
@@ -1046,8 +942,7 @@ const vocabulary = [
         englishPerfect: "cut off",
         germanPresent: "schneidet ab",
         germanImperfect: "schnitt ab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "abgeschnitten",
+        germanPerfect: "hat abgeschnitten",
     },
     {
         word: "to describe / beschreiben",
@@ -1056,8 +951,7 @@ const vocabulary = [
         englishPerfect: "described",
         germanPresent: "beschreibt",
         germanImperfect: "beschrieb",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschrieben",
+        germanPerfect: "hat beschrieben",
     },
     {
         word: "to explain / beschreiben",
@@ -1066,8 +960,7 @@ const vocabulary = [
         englishPerfect: "explained",
         germanPresent: "beschreibt",
         germanImperfect: "beschrieb",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschrieben",
+        germanPerfect: "hat beschrieben",
     },
     {
         word: "to give a descript / beschreiben",
@@ -1076,8 +969,7 @@ const vocabulary = [
         englishPerfect: "given a descript",
         germanPresent: "beschreibt",
         germanImperfect: "beschrieb",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschrieben",
+        germanPerfect: "hat beschrieben",
     },
     {
         word: "to stand / stehen",
@@ -1086,8 +978,7 @@ const vocabulary = [
         englishPerfect: "stood",
         germanPresent: "steht",
         germanImperfect: "stand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gestanden",
+        germanPerfect: "hat gestanden",
     },
     {
         word: "to hang / hängen",
@@ -1096,8 +987,7 @@ const vocabulary = [
         englishPerfect: "hung",
         germanPresent: "hängt",
         germanImperfect: "hängte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gehängt",
+        germanPerfect: "hat gehängt",
     },
     {
         word: "to start / anmachen",
@@ -1106,8 +996,7 @@ const vocabulary = [
         englishPerfect: "started",
         germanPresent: "macht an",
         germanImperfect: "machte an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angemacht",
+        germanPerfect: "hat angemacht",
     },
     {
         word: "to turn on / anmachen",
@@ -1116,8 +1005,7 @@ const vocabulary = [
         englishPerfect: "turn on",
         germanPresent: "macht an",
         germanImperfect: "machte an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angemacht",
+        germanPerfect: "hat angemacht",
     },
     {
         word: "to arrive / ankommen",
@@ -1126,8 +1014,7 @@ const vocabulary = [
         englishPerfect: "arrived",
         germanPresent: "kommt an",
         germanImperfect: "kam an",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "angekommen",
+        germanPerfect: "ist angekommen",
     },
     {
         word: "to wait / warten",
@@ -1136,8 +1023,7 @@ const vocabulary = [
         englishPerfect: "waited",
         germanPresent: "wartet",
         germanImperfect: "wartete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewartet",
+        germanPerfect: "hat gewartet",
     },
     {
         word: "to climb / steigen",
@@ -1146,8 +1032,7 @@ const vocabulary = [
         englishPerfect: "climbed",
         germanPresent: "steigt",
         germanImperfect: "stieg",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gestiegen",
+        germanPerfect: "ist gestiegen",
     },
     {
         word: "to rise / steigen",
@@ -1156,8 +1041,7 @@ const vocabulary = [
         englishPerfect: "risen",
         germanPresent: "steigt",
         germanImperfect: "stieg",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gestiegen",
+        germanPerfect: "ist gestiegen",
     },
     {
         word: "to get in / einsteigen",
@@ -1166,8 +1050,7 @@ const vocabulary = [
         englishPerfect: "gotten in",
         germanPresent: "steigt ein",
         germanImperfect: "stieg ein",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "eingestiegen",
+        germanPerfect: "ist eingestiegen",
     },
     {
         word: "to get on / einsteigen",
@@ -1176,8 +1059,7 @@ const vocabulary = [
         englishPerfect: "gotten on",
         germanPresent: "steigt ein",
         germanImperfect: "stieg ein",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "eingestiegen",
+        germanPerfect: "ist eingestiegen",
     },
     {
         word: "to board / einsteigen",
@@ -1186,8 +1068,7 @@ const vocabulary = [
         englishPerfect: "boarded",
         germanPresent: "steigt ein",
         germanImperfect: "stieg ein",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "eingestiegen",
+        germanPerfect: "ist eingestiegen",
     },
     {
         word: "to enter / einsteigen",
@@ -1196,8 +1077,7 @@ const vocabulary = [
         englishPerfect: "entered",
         germanPresent: "steigt ein",
         germanImperfect: "stieg ein",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "eingestiegen",
+        germanPerfect: "ist eingestiegen",
     },
     {
         word: "to get out / aufsteigen",
@@ -1206,8 +1086,7 @@ const vocabulary = [
         englishPerfect: "gotten out",
         germanPresent: "steigt auf",
         germanImperfect: "stieg auf",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "aufgestiegen",
+        germanPerfect: "ist aufgestiegen",
     },
     {
         word: "to exit / aufsteigen",
@@ -1216,8 +1095,7 @@ const vocabulary = [
         englishPerfect: "exited",
         germanPresent: "steigt auf",
         germanImperfect: "stieg auf",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "aufgestiegen",
+        germanPerfect: "ist aufgestiegen",
     },
     {
         word: "to move out / aufsteigen",
@@ -1226,8 +1104,7 @@ const vocabulary = [
         englishPerfect: "moved out",
         germanPresent: "steigt auf",
         germanImperfect: "stieg auf",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "aufgestiegen",
+        germanPerfect: "ist aufgestiegen",
     },
     {
         word: "to switch / umsteigen",
@@ -1236,8 +1113,7 @@ const vocabulary = [
         englishPerfect: "switched",
         germanPresent: "steigt um",
         germanImperfect: "stieg um",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "umgestiegen",
+        germanPerfect: "ist umgestiegen",
     },
     {
         word: "to change / umsteigen",
@@ -1246,8 +1122,7 @@ const vocabulary = [
         englishPerfect: "changed",
         germanPresent: "steigt um",
         germanImperfect: "stieg um",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "umgestiegen",
+        germanPerfect: "ist umgestiegen",
     },
     {
         word: "to pay / zahlen",
@@ -1256,8 +1131,7 @@ const vocabulary = [
         englishPerfect: "paid",
         germanPresent: "zahlt",
         germanImperfect: "zahlte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gezahlt",
+        germanPerfect: "hat gezahlt",
     },
     {
         word: "to receive / bekommen",
@@ -1266,8 +1140,7 @@ const vocabulary = [
         englishPerfect: "received",
         germanPresent: "bekommt",
         germanImperfect: "bekam",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bekommen",
+        germanPerfect: "hat bekommen",
     },
     {
         word: "to obtain / bekommen",
@@ -1276,8 +1149,7 @@ const vocabulary = [
         englishPerfect: "obtained",
         germanPresent: "bekommt",
         germanImperfect: "bekam",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bekommen",
+        germanPerfect: "hat bekommen",
     },
     {
         word: "to salute / grüßen",
@@ -1286,8 +1158,7 @@ const vocabulary = [
         englishPerfect: "saluted",
         germanPresent: "grüßt",
         germanImperfect: "grüßte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegrüßt",
+        germanPerfect: "hat gegrüßt",
     },
     {
         word: "to greet / grüßen",
@@ -1296,8 +1167,7 @@ const vocabulary = [
         englishPerfect: "greeted",
         germanPresent: "grüßt",
         germanImperfect: "grüßte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegrüßt",
+        germanPerfect: "hat gegrüßt",
     },
     {
         word: "to say hello / grüßen",
@@ -1306,8 +1176,7 @@ const vocabulary = [
         englishPerfect: "said hello",
         germanPresent: "grüßt",
         germanImperfect: "grüßte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegrüßt",
+        germanPerfect: "hat gegrüßt",
     },
     {
         word: "to wish / wünschen",
@@ -1316,8 +1185,7 @@ const vocabulary = [
         englishPerfect: "wished",
         germanPresent: "wünscht",
         germanImperfect: "wünschte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewünscht",
+        germanPerfect: "hat gewünscht",
     },
     {
         word: "to need / brauchen",
@@ -1326,8 +1194,7 @@ const vocabulary = [
         englishPerfect: "needed",
         germanPresent: "braucht",
         germanImperfect: "brauchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebraucht",
+        germanPerfect: "hat gebraucht",
     },
     {
         word: "to require / brauchen",
@@ -1336,8 +1203,7 @@ const vocabulary = [
         englishPerfect: "required",
         germanPresent: "braucht",
         germanImperfect: "brauchte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebraucht",
+        germanPerfect: "hat gebraucht",
     },
     {
         word: "to last / dauern",
@@ -1346,8 +1212,7 @@ const vocabulary = [
         englishPerfect: "lasted",
         germanPresent: "dauert",
         germanImperfect: "dauerte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedaurt",
+        germanPerfect: "hat gedaurt",
     },
     {
         word: "to take time / dauern",
@@ -1356,8 +1221,7 @@ const vocabulary = [
         englishPerfect: "taken time",
         germanPresent: "dauert",
         germanImperfect: "dauerte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedaurt",
+        germanPerfect: "hat gedaurt",
     },
     {
         word: "to taste / schmecken",
@@ -1366,8 +1230,7 @@ const vocabulary = [
         englishPerfect: "tasted",
         germanPresent: "schmeckt",
         germanImperfect: "schmeckte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschmeckt",
+        germanPerfect: "hat geschmeckt",
     },
     {
         word: "to savour / schmecken",
@@ -1376,8 +1239,7 @@ const vocabulary = [
         englishPerfect: "savoured",
         germanPresent: "schmeckt",
         germanImperfect: "schmeckte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschmeckt",
+        germanPerfect: "hat geschmeckt",
     },
     {
         word: "to value / schätzen",
@@ -1386,8 +1248,7 @@ const vocabulary = [
         englishPerfect: "valued",
         germanPresent: "schätzt",
         germanImperfect: "schätzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschätzt",
+        germanPerfect: "hat geschätzt",
     },
     {
         word: "to appreciate / schätzen",
@@ -1396,8 +1257,7 @@ const vocabulary = [
         englishPerfect: "appreciated",
         germanPresent: "schätzt",
         germanImperfect: "schätzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geschätzt",
+        germanPerfect: "hat geschätzt",
     },
     {
         word: "to say goodbye / verabschieden (sich)",
@@ -1406,8 +1266,7 @@ const vocabulary = [
         englishPerfect: "said goodbye",
         germanPresent: "verabschiedet",
         germanImperfect: "verabschiedete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verabschiedet",
+        germanPerfect: "hat verabschiedet",
     },
     {
         word: "to guide / begleiten",
@@ -1416,8 +1275,7 @@ const vocabulary = [
         englishPerfect: "guided",
         germanPresent: "begleitet",
         germanImperfect: "begleitete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "begleitet",
+        germanPerfect: "hat begleitet",
     },
     {
         word: "to accompany / begleiten",
@@ -1426,8 +1284,7 @@ const vocabulary = [
         englishPerfect: "accompanied",
         germanPresent: "begleitet",
         germanImperfect: "begleitete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "begleitet",
+        germanPerfect: "hat begleitet",
     },
     {
         word: "to have to / müssen",
@@ -1436,8 +1293,7 @@ const vocabulary = [
         englishPerfect: "had to",
         germanPresent: "muss",
         germanImperfect: "musste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemusst",
+        germanPerfect: "hat gemusst",
     },
     {
         word: "to wait for / aufwarten",
@@ -1446,8 +1302,7 @@ const vocabulary = [
         englishPerfect: "waited for",
         germanPresent: "wartet auf",
         germanImperfect: "wartete auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgewartet",
+        germanPerfect: "hat aufgewartet",
     },
     {
         word: "to expect / erwarten",
@@ -1456,8 +1311,7 @@ const vocabulary = [
         englishPerfect: "expected",
         germanPresent: "erwartet",
         germanImperfect: "erwartete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erwartet",
+        germanPerfect: "hat erwartet",
     },
     {
         word: "to meet / treffen (sich)",
@@ -1466,8 +1320,7 @@ const vocabulary = [
         englishPerfect: "met",
         germanPresent: "trifft",
         germanImperfect: "traf",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "getroffen",
+        germanPerfect: "hat getroffen",
     },
     {
         word: "to know / wissen",
@@ -1476,8 +1329,7 @@ const vocabulary = [
         englishPerfect: "known",
         germanPresent: "weiß",
         germanImperfect: "wusste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewusst",
+        germanPerfect: "hat gewusst",
     },
     {
         word: "to can / können",
@@ -1486,8 +1338,7 @@ const vocabulary = [
         englishPerfect: "-",
         germanPresent: "kann",
         germanImperfect: "konnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gekonnt",
+        germanPerfect: "hat gekonnt",
     },
     {
         word: "to should / sollen",
@@ -1496,8 +1347,7 @@ const vocabulary = [
         englishPerfect: "-",
         germanPresent: "soll",
         germanImperfect: "sollte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesollt",
+        germanPerfect: "hat gesollt",
     },
     {
         word: "to order / bestellen",
@@ -1506,8 +1356,7 @@ const vocabulary = [
         englishPerfect: "ordered",
         germanPresent: "bestellt",
         germanImperfect: "bestellte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bestellt",
+        germanPerfect: "hat bestellt",
     },
     {
         word: "to take / nehmen",
@@ -1516,8 +1365,7 @@ const vocabulary = [
         englishPerfect: "taken",
         germanPresent: "nimmt",
         germanImperfect: "nahm",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "genommen",
+        germanPerfect: "hat genommen",
     },
     {
         word: "to pick / nehmen",
@@ -1526,8 +1374,7 @@ const vocabulary = [
         englishPerfect: "picked",
         germanPresent: "nimmt",
         germanImperfect: "nahm",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "genommen",
+        germanPerfect: "hat genommen",
     },
     {
         word: "to recommand / empfehlen",
@@ -1536,8 +1383,7 @@ const vocabulary = [
         englishPerfect: "recommanded",
         germanPresent: "empfiehlt",
         germanImperfect: "empfahl",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "empfohlen",
+        germanPerfect: "hat empfohlen",
     },
     {
         word: "to suggest / empfehlen",
@@ -1546,8 +1392,7 @@ const vocabulary = [
         englishPerfect: "suggested",
         germanPresent: "empfiehlt",
         germanImperfect: "empfahl",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "empfohlen",
+        germanPerfect: "hat empfohlen",
     },
     {
         word: "to sit / setzen",
@@ -1556,8 +1401,7 @@ const vocabulary = [
         englishPerfect: "sat",
         germanPresent: "setzt",
         germanImperfect: "setzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesetzt",
+        germanPerfect: "hat gesetzt",
     },
     {
         word: "to put / setzen",
@@ -1566,8 +1410,7 @@ const vocabulary = [
         englishPerfect: "put",
         germanPresent: "setzt",
         germanImperfect: "setzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesetzt",
+        germanPerfect: "hat gesetzt",
     },
     {
         word: "to take a seat / setzen",
@@ -1576,8 +1419,7 @@ const vocabulary = [
         englishPerfect: "taken a seat",
         germanPresent: "setzt",
         germanImperfect: "setzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesetzt",
+        germanPerfect: "hat gesetzt",
     },
     {
         word: "to allow / dürfen",
@@ -1586,8 +1428,7 @@ const vocabulary = [
         englishPerfect: "allowed",
         germanPresent: "darf",
         germanImperfect: "durfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedurft",
+        germanPerfect: "hat gedurft",
     },
     {
         word: "to may / dürfen",
@@ -1596,8 +1437,7 @@ const vocabulary = [
         englishPerfect: "-",
         germanPresent: "darf",
         germanImperfect: "durfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedurft",
+        germanPerfect: "hat gedurft",
     },
     {
         word: "to bring / bringen",
@@ -1606,8 +1446,7 @@ const vocabulary = [
         englishPerfect: "brought",
         germanPresent: "bringt",
         germanImperfect: "brachte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebracht",
+        germanPerfect: "hat gebracht",
     },
     {
         word: "to serve / servieren",
@@ -1616,8 +1455,7 @@ const vocabulary = [
         englishPerfect: "served",
         germanPresent: "serviert",
         germanImperfect: "servierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "serviert",
+        germanPerfect: "hat serviert",
     },
     {
         word: "to settle in / einleben",
@@ -1626,8 +1464,7 @@ const vocabulary = [
         englishPerfect: "settled in",
         germanPresent: "lebt ein",
         germanImperfect: "lebte ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingelebt",
+        germanPerfect: "hat eingelebt",
     },
     {
         word: "to think / denken",
@@ -1636,8 +1473,7 @@ const vocabulary = [
         englishPerfect: "thought",
         germanPresent: "denkt",
         germanImperfect: "dachte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedacht",
+        germanPerfect: "hat gedacht",
     },
     {
         word: "to thank / danken",
@@ -1646,8 +1482,7 @@ const vocabulary = [
         englishPerfect: "thanked",
         germanPresent: "dankt",
         germanImperfect: "dankte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedanken",
+        germanPerfect: "hat gedanken",
     },
     {
         word: "to give thanks / danken",
@@ -1656,8 +1491,7 @@ const vocabulary = [
         englishPerfect: "given thanks",
         germanPresent: "dankt",
         germanImperfect: "dankte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gedanken",
+        germanPerfect: "hat gedanken",
     },
     {
         word: "to fall in love / verlieben (sich)",
@@ -1666,8 +1500,7 @@ const vocabulary = [
         englishPerfect: "fallen in love",
         germanPresent: "verliebt",
         germanImperfect: "verliebte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verliebt",
+        germanPerfect: "hat verliebt",
     },
     {
         word: "to notify / melden (sich)",
@@ -1676,8 +1509,7 @@ const vocabulary = [
         englishPerfect: "notified",
         germanPresent: "meldet",
         germanImperfect: "meldete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeldet",
+        germanPerfect: "hat gemeldet",
     },
     {
         word: "to report / melden (sich)",
@@ -1686,8 +1518,7 @@ const vocabulary = [
         englishPerfect: "reported",
         germanPresent: "meldet",
         germanImperfect: "meldete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeldet",
+        germanPerfect: "hat gemeldet",
     },
     {
         word: "to announce / melden (sich)",
@@ -1696,8 +1527,7 @@ const vocabulary = [
         englishPerfect: "announced",
         germanPresent: "meldet",
         germanImperfect: "meldete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeldet",
+        germanPerfect: "hat gemeldet",
     },
     {
         word: "to let know / melden (sich)",
@@ -1706,8 +1536,7 @@ const vocabulary = [
         englishPerfect: "let know",
         germanPresent: "meldet",
         germanImperfect: "meldete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeldet",
+        germanPerfect: "hat gemeldet",
     },
     {
         word: "to bring word / melden (sich)",
@@ -1716,8 +1545,7 @@ const vocabulary = [
         englishPerfect: "brought word",
         germanPresent: "meldet",
         germanImperfect: "meldete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeldet",
+        germanPerfect: "hat gemeldet",
     },
     {
         word: "to equip / ausstatten",
@@ -1726,8 +1554,7 @@ const vocabulary = [
         englishPerfect: "equipped",
         germanPresent: "stattet aus",
         germanImperfect: "stattete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgestattet",
+        germanPerfect: "hat ausgestattet",
     },
     {
         word: "to provide with / ausstatten",
@@ -1736,8 +1563,7 @@ const vocabulary = [
         englishPerfect: "provided with",
         germanPresent: "stattet aus",
         germanImperfect: "stattete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgestattet",
+        germanPerfect: "hat ausgestattet",
     },
     {
         word: "to experience / erleben",
@@ -1746,8 +1572,7 @@ const vocabulary = [
         englishPerfect: "experienced",
         germanPresent: "erlebt",
         germanImperfect: "erlebte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erlebt",
+        germanPerfect: "hat erlebt",
     },
     {
         word: "to withness / erleben",
@@ -1756,8 +1581,7 @@ const vocabulary = [
         englishPerfect: "withnessed",
         germanPresent: "erlebt",
         germanImperfect: "erlebte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erlebt",
+        germanPerfect: "hat erlebt",
     },
     {
         word: "to hug / umarmen (sich)",
@@ -1766,8 +1590,7 @@ const vocabulary = [
         englishPerfect: "hugged",
         germanPresent: "umarmt",
         germanImperfect: "umarmte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umarmt",
+        germanPerfect: "hat umarmt",
     },
     {
         word: "to embrace / umarmen (sich)",
@@ -1776,8 +1599,7 @@ const vocabulary = [
         englishPerfect: "embraced",
         germanPresent: "umarmt",
         germanImperfect: "umarmte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umarmt",
+        germanPerfect: "hat umarmt",
     },
     {
         word: "to embrace / umarmen (sich)",
@@ -1786,8 +1608,7 @@ const vocabulary = [
         englishPerfect: "embraced",
         germanPresent: "umarmt",
         germanImperfect: "umarmte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umarmt",
+        germanPerfect: "hat umarmt",
     },
     {
         word: "to check / prüfen",
@@ -1796,8 +1617,7 @@ const vocabulary = [
         englishPerfect: "checked",
         germanPresent: "prüft",
         germanImperfect: "prüfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geprüft",
+        germanPerfect: "hat geprüft",
     },
     {
         word: "to examine / prüfen",
@@ -1806,8 +1626,7 @@ const vocabulary = [
         englishPerfect: "examined",
         germanPresent: "prüft",
         germanImperfect: "prüfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geprüft",
+        germanPerfect: "hat geprüft",
     },
     {
         word: "to validate / prüfen",
@@ -1816,8 +1635,7 @@ const vocabulary = [
         englishPerfect: "validated",
         germanPresent: "prüft",
         germanImperfect: "prüfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geprüft",
+        germanPerfect: "hat geprüft",
     },
     {
         word: "to verify / prüfen",
@@ -1826,8 +1644,7 @@ const vocabulary = [
         englishPerfect: "verified",
         germanPresent: "prüft",
         germanImperfect: "prüfte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geprüft",
+        germanPerfect: "hat geprüft",
     },
     {
         word: "to sit down / hinsetzen",
@@ -1836,8 +1653,7 @@ const vocabulary = [
         englishPerfect: "sat down",
         germanPresent: "setzt hin",
         germanImperfect: "setzte hin",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "hingesetzt",
+        germanPerfect: "hat hingesetzt",
     },
     {
         word: "to put down / hinsetzen",
@@ -1846,8 +1662,7 @@ const vocabulary = [
         englishPerfect: "put down",
         germanPresent: "setzt hin",
         germanImperfect: "setzte hin",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "hingesetzt",
+        germanPerfect: "hat hingesetzt",
     },
     {
         word: "to feel / fühlen (sich)",
@@ -1856,8 +1671,7 @@ const vocabulary = [
         englishPerfect: "felt",
         germanPresent: "fühlt",
         germanImperfect: "fühlte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefühlt",
+        germanPerfect: "hat gefühlt",
     },
     {
         word: "to drive with somebody/ mitfahren",
@@ -1866,8 +1680,7 @@ const vocabulary = [
         englishPerfect: "driven with",
         germanPresent: "fährt mit",
         germanImperfect: "fuhr mit",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "mitgefahren",
+        germanPerfect: "ist mitgefahren",
     },
     {
         word: "to ride along/ mitfahren",
@@ -1876,8 +1689,7 @@ const vocabulary = [
         englishPerfect: "ridden along",
         germanPresent: "fährt mit",
         germanImperfect: "fuhr mit",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "mitgefahren",
+        germanPerfect: "ist mitgefahren",
     },
     {
         word: "to borrow / ausleihen",
@@ -1886,8 +1698,7 @@ const vocabulary = [
         englishPerfect: "borrowed",
         germanPresent: "leiht aus",
         germanImperfect: "lieh aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgeliehen",
+        germanPerfect: "hat ausgeliehen",
     },
     {
         word: "to lend / ausleihen",
@@ -1896,8 +1707,7 @@ const vocabulary = [
         englishPerfect: "lent",
         germanPresent: "leiht aus",
         germanImperfect: "lieh aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgeliehen",
+        germanPerfect: "hat ausgeliehen",
     },
     {
         word: "to rent / ausleihen",
@@ -1906,8 +1716,7 @@ const vocabulary = [
         englishPerfect: "rented",
         germanPresent: "leiht aus",
         germanImperfect: "lieh aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgeliehen",
+        germanPerfect: "hat ausgeliehen",
     },
     {
         word: "to change / wechseln",
@@ -1916,8 +1725,7 @@ const vocabulary = [
         englishPerfect: "changed",
         germanPresent: "wechselt",
         germanImperfect: "wechselte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewechselt",
+        germanPerfect: "hat gewechselt",
     },
     {
         word: "to switch / wechseln",
@@ -1926,8 +1734,7 @@ const vocabulary = [
         englishPerfect: "switched",
         germanPresent: "wechselt",
         germanImperfect: "wechselte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewechselt",
+        germanPerfect: "hat gewechselt",
     },
     {
         word: "to chat / plaudern",
@@ -1936,8 +1743,7 @@ const vocabulary = [
         englishPerfect: "chated",
         germanPresent: "plaudert",
         germanImperfect: "plauderte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geplaudert",
+        germanPerfect: "hat geplaudert",
     },
     {
         word: "to have a chat / plaudern",
@@ -1946,8 +1752,7 @@ const vocabulary = [
         englishPerfect: "had a chat",
         germanPresent: "plaudert",
         germanImperfect: "plauderte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geplaudert",
+        germanPerfect: "hat geplaudert",
     },
     {
         word: "to look at / anschauen",
@@ -1956,8 +1761,7 @@ const vocabulary = [
         englishPerfect: "looked at",
         germanPresent: "schaut an",
         germanImperfect: "schaute an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angeschaut",
+        germanPerfect: "hat angeschaut",
     },
     {
         word: "to view / anschauen",
@@ -1966,8 +1770,7 @@ const vocabulary = [
         englishPerfect: "viewed",
         germanPresent: "schaut an",
         germanImperfect: "schaute an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angeschaut",
+        germanPerfect: "hat angeschaut",
     },
     {
         word: "to watch / anschauen",
@@ -1976,8 +1779,7 @@ const vocabulary = [
         englishPerfect: "watched",
         germanPresent: "schaut an",
         germanImperfect: "schaute an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angeschaut",
+        germanPerfect: "hat angeschaut",
     },
     {
         word: "to put on / anziehen (sich)",
@@ -1986,8 +1788,7 @@ const vocabulary = [
         englishPerfect: "put on",
         germanPresent: "zieht an",
         germanImperfect: "zog an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angezogen",
+        germanPerfect: "hat angezogen",
     },
     {
         word: "to dress / anziehen (sich)",
@@ -1996,8 +1797,7 @@ const vocabulary = [
         englishPerfect: "dressed",
         germanPresent: "zieht an",
         germanImperfect: "zog an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angezogen",
+        germanPerfect: "hat angezogen",
     },
     {
         word: "to get dressed / anziehen (sich)",
@@ -2006,8 +1806,7 @@ const vocabulary = [
         englishPerfect: "gotten dressed",
         germanPresent: "zieht an",
         germanImperfect: "zog an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angezogen",
+        germanPerfect: "hat angezogen",
     },
     {
         word: "to start / anfangen",
@@ -2016,8 +1815,7 @@ const vocabulary = [
         englishPerfect: "started",
         germanPresent: "fängt an",
         germanImperfect: "fing an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angefangen",
+        germanPerfect: "hat angefangen",
     },
     {
         word: "to begin / anfangen",
@@ -2026,8 +1824,7 @@ const vocabulary = [
         englishPerfect: "begun",
         germanPresent: "fängt an",
         germanImperfect: "fing an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angefangen",
+        germanPerfect: "hat angefangen",
     },
     {
         word: "to go through / durchfahren",
@@ -2036,8 +1833,7 @@ const vocabulary = [
         englishPerfect: "gone through",
         germanPresent: "fährt durch",
         germanImperfect: "fuhr durch",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "durchgefahren",
+        germanPerfect: "ist durchgefahren",
     },
     {
         word: "to pass through / durchfahren",
@@ -2046,8 +1842,7 @@ const vocabulary = [
         englishPerfect: "passed through",
         germanPresent: "fährt durch",
         germanImperfect: "fuhr durch",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "durchgefahren",
+        germanPerfect: "ist durchgefahren",
     },
     {
         word: "to equip / ausrüsten",
@@ -2056,8 +1851,7 @@ const vocabulary = [
         englishPerfect: "equipped",
         germanPresent: "rüstet aus",
         germanImperfect: "rüstete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgerüstet",
+        germanPerfect: "hat ausgerüstet",
     },
     {
         word: "to stop / aufhalten",
@@ -2066,8 +1860,7 @@ const vocabulary = [
         englishPerfect: "stopped",
         germanPresent: "hält auf",
         germanImperfect: "hielt auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgehalten",
+        germanPerfect: "hat aufgehalten",
     },
     {
         word: "to present / vorstellen (sich)",
@@ -2076,8 +1869,7 @@ const vocabulary = [
         englishPerfect: "presented",
         germanPresent: "stellt vor",
         germanImperfect: "stellte vor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vorgestellt",
+        germanPerfect: "hat vorgestellt",
     },
     {
         word: "to introduce somebody / vorstellen (sich)",
@@ -2086,8 +1878,7 @@ const vocabulary = [
         englishPerfect: "introduced",
         germanPresent: "stellt vor",
         germanImperfect: "stellte vor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vorgestellt",
+        germanPerfect: "hat vorgestellt",
     },
     {
         word: "to imagine / vorstellen",
@@ -2096,8 +1887,7 @@ const vocabulary = [
         englishPerfect: "imagined",
         germanPresent: "stellt vor",
         germanImperfect: "stellte vor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vorgestellt",
+        germanPerfect: "hat vorgestellt",
     },
     {
         word: "to record / aufnehmen",
@@ -2106,8 +1896,7 @@ const vocabulary = [
         englishPerfect: "recorded",
         germanPresent: "nimmt auf",
         germanImperfect: "nahm auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgenommen",
+        germanPerfect: "hat aufgenommen",
     },
     {
         word: "to collect / sammeln",
@@ -2116,8 +1905,7 @@ const vocabulary = [
         englishPerfect: "collected",
         germanPresent: "sammelt",
         germanImperfect: "sammelte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesammelt",
+        germanPerfect: "hat gesammelt",
     },
     {
         word: "to simplify / vereinfachen",
@@ -2126,8 +1914,7 @@ const vocabulary = [
         englishPerfect: "simplified",
         germanPresent: "vereinfacht",
         germanImperfect: "vereinfachte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vereinfacht",
+        germanPerfect: "hat vereinfacht",
     },
     {
         word: "to hide / verstecken",
@@ -2136,8 +1923,7 @@ const vocabulary = [
         englishPerfect: "hidden",
         germanPresent: "versteckt",
         germanImperfect: "versteckte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "versteckt",
+        germanPerfect: "hat versteckt",
     },
     {
         word: "to edit / bearbeiten",
@@ -2146,8 +1932,7 @@ const vocabulary = [
         englishPerfect: "edited",
         germanPresent: "bearbeitet",
         germanImperfect: "bearbeitete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bearbeitet",
+        germanPerfect: "hat bearbeitet",
     },
     {
         word: "to analyze / auswerten",
@@ -2156,8 +1941,7 @@ const vocabulary = [
         englishPerfect: "analyzed",
         germanPresent: "wertet aus",
         germanImperfect: "wertete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgewertet",
+        germanPerfect: "hat ausgewertet",
     },
     {
         word: "to analyse / auswerten",
@@ -2166,8 +1950,7 @@ const vocabulary = [
         englishPerfect: "analysed",
         germanPresent: "wertet aus",
         germanImperfect: "wertete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgewertet",
+        germanPerfect: "hat ausgewertet",
     },
     {
         word: "to evaluate / auswerten",
@@ -2176,8 +1959,7 @@ const vocabulary = [
         englishPerfect: "evaluated",
         germanPresent: "wertet aus",
         germanImperfect: "wertete aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgewertet",
+        germanPerfect: "hat ausgewertet",
     },
     {
         word: "to observe / betrachten",
@@ -2186,8 +1968,7 @@ const vocabulary = [
         englishPerfect: "observed",
         germanPresent: "betrachtet",
         germanImperfect: "betrachtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "betrachtet",
+        germanPerfect: "hat betrachtet",
     },
     {
         word: "to consider / betrachten",
@@ -2196,8 +1977,7 @@ const vocabulary = [
         englishPerfect: "considered",
         germanPresent: "betrachtet",
         germanImperfect: "betrachtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "betrachtet",
+        germanPerfect: "hat betrachtet",
     },
     {
         word: "to read out / ablesen",
@@ -2206,8 +1986,7 @@ const vocabulary = [
         englishPerfect: "read out",
         germanPresent: "liest ab",
         germanImperfect: "las ab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "abgelesen",
+        germanPerfect: "hat abgelesen",
     },
     {
         word: "to change / verändern (sich)",
@@ -2216,8 +1995,7 @@ const vocabulary = [
         englishPerfect: "changed",
         germanPresent: "verändert",
         germanImperfect: "veränderte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verändert",
+        germanPerfect: "fat verändert",
     },
     {
         word: "to modify / verändern (sich)",
@@ -2226,8 +2004,7 @@ const vocabulary = [
         englishPerfect: "modified ",
         germanPresent: "verändert",
         germanImperfect: "veränderte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verändert",
+        germanPerfect: "hat verändert",
     },
     {
         word: "to transform / verändern (sich)",
@@ -2236,8 +2013,7 @@ const vocabulary = [
         englishPerfect: "transformed",
         germanPresent: "verändert",
         germanImperfect: "veränderte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verändert",
+        germanPerfect: "hat verändert",
     },
     {
         word: "to build / bauen",
@@ -2246,8 +2022,7 @@ const vocabulary = [
         englishPerfect: "built",
         germanPresent: "baut",
         germanImperfect: "baute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebaut",
+        germanPerfect: "hat gebaut",
     },
     {
         word: "to construct / bauen",
@@ -2256,8 +2031,7 @@ const vocabulary = [
         englishPerfect: "constructed",
         germanPresent: "baut",
         germanImperfect: "baute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gebaut",
+        germanPerfect: "hat gebaut",
     },
     {
         word: "to redesign / umgestalten",
@@ -2266,8 +2040,7 @@ const vocabulary = [
         englishPerfect: "redesigned",
         germanPresent: "gestaltet um",
         germanImperfect: "gestaltete um",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umgestaltet",
+        germanPerfect: "hat umgestaltet",
     },
     {
         word: "to remodel / umgestalten",
@@ -2276,8 +2049,7 @@ const vocabulary = [
         englishPerfect: "remodelled",
         germanPresent: "gestaltet um",
         germanImperfect: "gestaltete um",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umgestaltet",
+        germanPerfect: "hat umgestaltet",
     },
     {
         word: "to rearrange / umgestalten",
@@ -2286,8 +2058,7 @@ const vocabulary = [
         englishPerfect: "rearranged",
         germanPresent: "gestaltet um",
         germanImperfect: "gestaltete um",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "umgestaltet",
+        germanPerfect: "hat umgestaltet",
     },
     {
         word: "to destroy / zerstören",
@@ -2296,8 +2067,7 @@ const vocabulary = [
         englishPerfect: "destroyed",
         germanPresent: "zerstört",
         germanImperfect: "zerstörte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "zerstört",
+        germanPerfect: "hat zerstört",
     },
     {
         word: "to vandalise / zerstören",
@@ -2306,8 +2076,7 @@ const vocabulary = [
         englishPerfect: "vandalised",
         germanPresent: "zerstört",
         germanImperfect: "zerstörte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "zerstört",
+        germanPerfect: "hat zerstört",
     },
     {
         word: "to lose / verlieren",
@@ -2316,8 +2085,7 @@ const vocabulary = [
         englishPerfect: "lost",
         germanPresent: "verliert",
         germanImperfect: "verlor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verloren",
+        germanPerfect: "hat verloren",
     },
     {
         word: "to build up / aufbauen",
@@ -2326,8 +2094,7 @@ const vocabulary = [
         englishPerfect: "built up",
         germanPresent: "baut auf",
         germanImperfect: "baute auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgebaut",
+        germanPerfect: "hat aufgebaut",
     },
     {
         word: "to open / aufschlagen",
@@ -2336,18 +2103,7 @@ const vocabulary = [
         englishPerfect: "opened",
         germanPresent: "schlägt auf",
         germanImperfect: "schlug auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgeschlagen",
-    },
-    {
-        word: "to grow / wachsen",
-        englishPresent: "grows",
-        englishPreterit: "gren",
-        englishPerfect: "grown",
-        germanPresent: "wächst",
-        germanImperfect: "wuchs",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewachsen",
+        germanPerfect: "hat aufgeschlagen",
     },
     {
         word: "to grow / wachsen",
@@ -2356,8 +2112,16 @@ const vocabulary = [
         englishPerfect: "grown",
         germanPresent: "wächst",
         germanImperfect: "wuchs",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewachsen",
+        germanPerfect: "ist gewachsen",
+    },
+    {
+        word: "to grow / wachsen",
+        englishPresent: "grows",
+        englishPreterit: "grew",
+        englishPerfect: "grown",
+        germanPresent: "wächst",
+        germanImperfect: "wuchs",
+        germanPerfect: "ist gewachsen",
     },
     {
         word: "to increase / wachsen",
@@ -2366,8 +2130,7 @@ const vocabulary = [
         englishPerfect: "increased",
         germanPresent: "wächst",
         germanImperfect: "wuchs",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewachsen",
+        germanPerfect: "ist gewachsen",
     },
     {
         word: "to build / gründen",
@@ -2376,8 +2139,7 @@ const vocabulary = [
         englishPerfect: "built",
         germanPresent: "gründet",
         germanImperfect: "gründete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegründet",
+        germanPerfect: "hat gegründet",
     },
     {
         word: "to ground / gründen",
@@ -2386,8 +2148,7 @@ const vocabulary = [
         englishPerfect: "grounded",
         germanPresent: "gründet",
         germanImperfect: "gründete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegründet",
+        germanPerfect: "hat gegründet",
     },
     {
         word: "to base / gründen",
@@ -2396,8 +2157,7 @@ const vocabulary = [
         englishPerfect: "based",
         germanPresent: "gründet",
         germanImperfect: "gründete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gegründet",
+        germanPerfect: "hat gegründet",
     },
     {
         word: "to expand / erweitern",
@@ -2406,8 +2166,7 @@ const vocabulary = [
         englishPerfect: "expanded",
         germanPresent: "erweitert",
         germanImperfect: "erweiterte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erweitert",
+        germanPerfect: "hat erweitert",
     },
     {
         word: "to extend / erweitern",
@@ -2416,8 +2175,7 @@ const vocabulary = [
         englishPerfect: "extended",
         germanPresent: "erweitert",
         germanImperfect: "erweiterte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erweitert",
+        germanPerfect: "hat erweitert",
     },
     {
         word: "to leave / hinterlassen",
@@ -2426,8 +2184,7 @@ const vocabulary = [
         englishPerfect: "left",
         germanPresent: "hinterlässt",
         germanImperfect: "hinterließ",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "hinterlassen",
+        germanPerfect: "hat hinterlassen",
     },
     {
         word: "to survive / überstehen",
@@ -2436,8 +2193,7 @@ const vocabulary = [
         englishPerfect: "survived",
         germanPresent: "übersteht",
         germanImperfect: "überstand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "überstanden",
+        germanPerfect: "hat überstanden",
     },
     {
         word: "to destroy / vernichten",
@@ -2446,8 +2202,7 @@ const vocabulary = [
         englishPerfect: "destroyed",
         germanPresent: "vernichtet",
         germanImperfect: "vernichtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vernichtet",
+        germanPerfect: "hat vernichtet",
     },
     {
         word: "to reconstruct / wiederaufbauen",
@@ -2456,8 +2211,7 @@ const vocabulary = [
         englishPerfect: "reconstructed",
         germanPresent: "baut wiederauf",
         germanImperfect: "baute wiederauf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "wiederaufgebaut",
+        germanPerfect: "hat wiederaufgebaut",
     },
     {
         word: "to rebuild / wiederaufbauen",
@@ -2466,8 +2220,7 @@ const vocabulary = [
         englishPerfect: "rebuilt",
         germanPresent: "baut wiederauf",
         germanImperfect: "baute wiederauf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "wiederaufgebaut",
+        germanPerfect: "hat wiederaufgebaut",
     },
     {
         word: "to save / verschonen",
@@ -2476,8 +2229,7 @@ const vocabulary = [
         englishPerfect: "saved",
         germanPresent: "verschont",
         germanImperfect: "verschonte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verschont",
+        germanPerfect: "hat verschont",
     },
     {
         word: "to spare / verschonen",
@@ -2486,8 +2238,7 @@ const vocabulary = [
         englishPerfect: "spared",
         germanPresent: "verschont",
         germanImperfect: "verschonte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verschont",
+        germanPerfect: "hat verschont",
     },
     {
         word: "to vow / weihen",
@@ -2496,8 +2247,7 @@ const vocabulary = [
         englishPerfect: "vowed",
         germanPresent: "weiht",
         germanImperfect: "weihte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geweiht",
+        germanPerfect: "hat geweiht",
     },
     {
         word: "to dedicate / weihen",
@@ -2506,8 +2256,7 @@ const vocabulary = [
         englishPerfect: "dedicated",
         germanPresent: "weiht",
         germanImperfect: "weihte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geweiht",
+        germanPerfect: "hat geweiht",
     },
     {
         word: "to overlook / übersehen",
@@ -2516,8 +2265,7 @@ const vocabulary = [
         englishPerfect: "overlooked",
         germanPresent: "übersieht",
         germanImperfect: "übersah",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "übersehen",
+        germanPerfect: "hat übersehen",
     },
     {
         word: "to climb / besteigen",
@@ -2526,8 +2274,7 @@ const vocabulary = [
         englishPerfect: "climbed",
         germanPresent: "besteigt",
         germanImperfect: "bestieg",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bestiegen",
+        germanPerfect: "hat bestiegen",
     },
     {
         word: "to offer / bieten",
@@ -2536,8 +2283,7 @@ const vocabulary = [
         englishPerfect: "offered",
         germanPresent: "bietet",
         germanImperfect: "bot",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geboten",
+        germanPerfect: "hat geboten",
     },
     {
         word: "to start / starten",
@@ -2546,8 +2292,7 @@ const vocabulary = [
         englishPerfect: "started",
         germanPresent: "startet",
         germanImperfect: "startete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gestartet",
+        germanPerfect: "hat gestartet",
     },
     {
         word: "to react / reagieren",
@@ -2556,8 +2301,7 @@ const vocabulary = [
         englishPerfect: "reacted",
         germanPresent: "reagiert",
         germanImperfect: "reagierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "reagiert",
+        germanPerfect: "hat reagiert",
     },
     {
         word: "to respond / reagieren",
@@ -2566,8 +2310,7 @@ const vocabulary = [
         englishPerfect: "responded",
         germanPresent: "reagiert",
         germanImperfect: "reagierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "reagiert",
+        germanPerfect: "hat reagiert",
     },
     {
         word: "to decide / beschließen",
@@ -2576,8 +2319,7 @@ const vocabulary = [
         englishPerfect: "decided",
         germanPresent: "beschließt",
         germanImperfect: "beschloss",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschlossen",
+        germanPerfect: "hat beschlossen",
     },
     {
         word: "to resolve / beschließen",
@@ -2586,8 +2328,7 @@ const vocabulary = [
         englishPerfect: "resolved",
         germanPresent: "beschließt",
         germanImperfect: "beschloss",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschlossen",
+        germanPerfect: "hat beschlossen",
     },
     {
         word: "to end / beschließen",
@@ -2596,8 +2337,7 @@ const vocabulary = [
         englishPerfect: "ended",
         germanPresent: "beschließt",
         germanImperfect: "beschloss",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beschlossen",
+        germanPerfect: "hat beschlossen",
     },
     {
         word: "to summarize / zusammenfassen",
@@ -2606,8 +2346,7 @@ const vocabulary = [
         englishPerfect: "summarized",
         germanPresent: "fasst zusammen",
         germanImperfect: "fasste zusammen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "zusammengefasst",
+        germanPerfect: "hat zusammengefasst",
     },
     {
         word: "to sum up / zusammenfassen",
@@ -2616,8 +2355,7 @@ const vocabulary = [
         englishPerfect: "summed up",
         germanPresent: "fasst zusammen",
         germanImperfect: "fasste zusammen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "zusammengefasst",
+        germanPerfect: "hat zusammengefasst",
     },
     {
         word: "to centralize / zusammenfassen",
@@ -2626,8 +2364,7 @@ const vocabulary = [
         englishPerfect: "centralized",
         germanPresent: "fasst zusammen",
         germanImperfect: "fasste zusammen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "zusammengefasst",
+        germanPerfect: "hat zusammengefasst",
     },
     {
         word: "to draw / zeichnen",
@@ -2636,8 +2373,7 @@ const vocabulary = [
         englishPerfect: "drawn",
         germanPresent: "zeichnet",
         germanImperfect: "zeichnete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gezeichnet",
+        germanPerfect: "hat gezeichnet",
     },
     {
         word: "to mark / zeichnen",
@@ -2646,8 +2382,7 @@ const vocabulary = [
         englishPerfect: "marked",
         germanPresent: "zeichnet",
         germanImperfect: "zeichnete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gezeichnet",
+        germanPerfect: "hat gezeichnet",
     },
     {
         word: "to fill in / eintragen",
@@ -2656,8 +2391,7 @@ const vocabulary = [
         englishPerfect: "filled",
         germanPresent: "trägt ein",
         germanImperfect: "trug ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingetragen",
+        germanPerfect: "hat eingetragen",
     },
     {
         word: "to record / eintragen",
@@ -2666,8 +2400,7 @@ const vocabulary = [
         englishPerfect: "recorded",
         germanPresent: "trägt ein",
         germanImperfect: "trug ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingetragen",
+        germanPerfect: "hat eingetragen",
     },
     {
         word: "to register / eintragen",
@@ -2676,8 +2409,7 @@ const vocabulary = [
         englishPerfect: "registered",
         germanPresent: "trägt ein",
         germanImperfect: "trug ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingetragen",
+        germanPerfect: "hat eingetragen",
     },
     {
         word: "to calculate / errechnen",
@@ -2686,8 +2418,7 @@ const vocabulary = [
         englishPerfect: "calculated",
         germanPresent: "errechnet",
         germanImperfect: "errechnete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "errechnet",
+        germanPerfect: "hat errechnet",
     },
     {
         word: "to select / aussuchen",
@@ -2696,8 +2427,7 @@ const vocabulary = [
         englishPerfect: "selected",
         germanPresent: "sucht aus",
         germanImperfect: "suchte aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgesucht",
+        germanPerfect: "hat ausgesucht",
     },
     {
         word: "to choose / aussuchen",
@@ -2706,8 +2436,7 @@ const vocabulary = [
         englishPerfect: "chosen",
         germanPresent: "sucht aus",
         germanImperfect: "suchte aus",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "ausgesucht",
+        germanPerfect: "hat ausgesucht",
     },
     {
         word: "to congratulate / gratulieren",
@@ -2716,8 +2445,7 @@ const vocabulary = [
         englishPerfect: "congratulated",
         germanPresent: "gratuliert",
         germanImperfect: "gratulierte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gratuliert",
+        germanPerfect: "hat gratuliert",
     },
     {
         word: "to propose / vorschlagen",
@@ -2726,8 +2454,7 @@ const vocabulary = [
         englishPerfect: "proposed",
         germanPresent: "schlägt vor",
         germanImperfect: "schlug vor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vorgeschlagen",
+        germanPerfect: "hat vorgeschlagen",
     },
     {
         word: "to suggest / vorschlagen",
@@ -2736,8 +2463,7 @@ const vocabulary = [
         englishPerfect: "suggested",
         germanPresent: "schlägt vor",
         germanImperfect: "schlug vor",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "vorgeschlagen",
+        germanPerfect: "hat vorgeschlagen",
     },
     {
         word: "to draft / verfassen",
@@ -2746,8 +2472,7 @@ const vocabulary = [
         englishPerfect: "drafted",
         germanPresent: "verfasst",
         germanImperfect: "verfasste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verfasst",
+        germanPerfect: "hat verfasst",
     },
     {
         word: "to compose / verfassen",
@@ -2756,8 +2481,7 @@ const vocabulary = [
         englishPerfect: "composed",
         germanPresent: "verfasst",
         germanImperfect: "verfasste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verfasst",
+        germanPerfect: "hat verfasst",
     },
     {
         word: "to write / verfassen",
@@ -2766,8 +2490,7 @@ const vocabulary = [
         englishPerfect: "written",
         germanPresent: "verfasst",
         germanImperfect: "verfasste",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verfasst",
+        germanPerfect: "hat verfasst",
     },
     {
         word: "to pull / ziehen",
@@ -2776,8 +2499,7 @@ const vocabulary = [
         englishPerfect: "pulled",
         germanPresent: "zieht",
         germanImperfect: "zog",
-        germanAuxiliary: "ist", // Correct auxiliary verb
-        germanPerfect: "gezogen",
+        germanPerfect: "ist gezogen",
     },
     {
         word: "to look in / einsehen",
@@ -2786,7 +2508,6 @@ const vocabulary = [
         englishPerfect: "looked in",
         germanPresent: "sieht ein",
         germanImperfect: "sah ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
         germanPerfect: "eingesehen",
     },
     {
@@ -2796,8 +2517,7 @@ const vocabulary = [
         englishPerfect: "supervised",
         germanPresent: "betreut",
         germanImperfect: "betreute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "betreut",
+        germanPerfect: "hat betreut",
     },
     {
         word: "to look after / betreuen",
@@ -2806,8 +2526,7 @@ const vocabulary = [
         englishPerfect: "looked after",
         germanPresent: "betreut",
         germanImperfect: "betreute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "betreut",
+        germanPerfect: "hat betreut",
     },
     {
         word: "to care for / betreuen",
@@ -2816,8 +2535,7 @@ const vocabulary = [
         englishPerfect: "cared for",
         germanPresent: "betreut",
         germanImperfect: "betreute",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "betreut",
+        germanPerfect: "hat betreut",
     },
     {
         word: "to notice / merken",
@@ -2826,8 +2544,7 @@ const vocabulary = [
         englishPerfect: "noticed",
         germanPresent: "merkt",
         germanImperfect: "merkte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemerkt",
+        germanPerfect: "hat gemerkt",
     },
     {
         word: "to translate / übersetzen",
@@ -2836,8 +2553,7 @@ const vocabulary = [
         englishPerfect: "translated",
         germanPresent: "übersetzt",
         germanImperfect: "übersetzte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "übersetzt",
+        germanPerfect: "hat übersetzt",
     },
     {
         word: "to pass / bestehen",
@@ -2846,8 +2562,7 @@ const vocabulary = [
         englishPerfect: "passed",
         germanPresent: "besteht",
         germanImperfect: "bestand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bestanden",
+        germanPerfect: "hat bestanden",
     },
     {
         word: "to succeed / bestehen",
@@ -2856,8 +2571,7 @@ const vocabulary = [
         englishPerfect: "succeeded",
         germanPresent: "besteht",
         germanImperfect: "bestand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bestanden",
+        germanPerfect: "hat bestanden",
     },
     {
         word: "to be composed of / bestehen",
@@ -2866,8 +2580,7 @@ const vocabulary = [
         englishPerfect: "been composed of",
         germanPresent: "besteht",
         germanImperfect: "bestand",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "bestanden",
+        germanPerfect: "hat bestanden",
     },
     {
         word: "to help somebody for achiving something / verhelfen",
@@ -2876,8 +2589,7 @@ const vocabulary = [
         englishPerfect: "helped",
         germanPresent: "verhielft",
         germanImperfect: "verhalf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verholfen",
+        germanPerfect: "hat verholfen",
     },
     {
         word: "to pack / packen",
@@ -2886,8 +2598,7 @@ const vocabulary = [
         englishPerfect: "packed",
         germanPresent: "packt",
         germanImperfect: "packte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gepackt",
+        germanPerfect: "hat gepackt",
     },
     {
         word: "to wish for / sehnen (sich)",
@@ -2896,8 +2607,7 @@ const vocabulary = [
         englishPerfect: "wished for",
         germanPresent: "sehnt",
         germanImperfect: "sehnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehnt",
+        germanPerfect: "hat gesehnt",
     },
     {
         word: "to crave / sehnen (sich)",
@@ -2906,8 +2616,7 @@ const vocabulary = [
         englishPerfect: "craved",
         germanPresent: "sehnt",
         germanImperfect: "sehnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehnt",
+        germanPerfect: "hat gesehnt",
     },
     {
         word: "to miss someone / sehnen (sich)",
@@ -2916,8 +2625,7 @@ const vocabulary = [
         englishPerfect: "missed somebody",
         germanPresent: "sehnt",
         germanImperfect: "sehnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gesehnt",
+        germanPerfect: "hat gesehnt",
     },
     {
         word: "to continue / fortsetzen",
@@ -2926,8 +2634,7 @@ const vocabulary = [
         englishPerfect: "continued",
         germanPresent: "setzt fort",
         germanImperfect: "setzte fort",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "fortgesetzt",
+        germanPerfect: "hat fortgesetzt",
     },
     {
         word: "to carry on / fortsetzen",
@@ -2936,8 +2643,7 @@ const vocabulary = [
         englishPerfect: "carried on",
         germanPresent: "setzt fort",
         germanImperfect: "setzte fort",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "fortgesetzt",
+        germanPerfect: "hat fortgesetzt",
     },
     {
         word: "to keep / behalten",
@@ -2946,8 +2652,7 @@ const vocabulary = [
         englishPerfect: "kept",
         germanPresent: "behält",
         germanImperfect: "behielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "behalten",
+        germanPerfect: "hat behalten",
     },
     {
         word: "to retain / behalten",
@@ -2956,8 +2661,7 @@ const vocabulary = [
         englishPerfect: "retained",
         germanPresent: "behält",
         germanImperfect: "behielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "behalten",
+        germanPerfect: "hat behalten",
     },
     {
         word: "to call / anrufen",
@@ -2966,8 +2670,7 @@ const vocabulary = [
         englishPerfect: "called",
         germanPresent: "ruft an",
         germanImperfect: "rief an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angerufen",
+        germanPerfect: "hat angerufen",
     },
     {
         word: "to make a call / anrufen",
@@ -2976,8 +2679,7 @@ const vocabulary = [
         englishPerfect: "made a call",
         germanPresent: "ruft an",
         germanImperfect: "rief an",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "angerufen",
+        germanPerfect: "hat angerufen",
     },
     {
         word: "to get to know somebody / kennenlernen",
@@ -2986,8 +2688,7 @@ const vocabulary = [
         englishPerfect: "gotten to know",
         germanPresent: "lernt kennen",
         germanImperfect: "lernte kennen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "kennengelernt",
+        germanPerfect: "hat kennengelernt",
     },
     {
         word: "to meet somebody / kennenlernen",
@@ -2996,8 +2697,7 @@ const vocabulary = [
         englishPerfect: "met",
         germanPresent: "lernt kennen",
         germanImperfect: "lernte kennen",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "kennengelernt",
+        germanPerfect: "hat kennengelernt",
     },
     {
         word: "to pick up somebody / abholen",
@@ -3006,8 +2706,7 @@ const vocabulary = [
         englishPerfect: "picked up somebody",
         germanPresent: "holt ab",
         germanImperfect: "holte ab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "abgeholt",
+        germanPerfect: "hat abgeholt",
     },
     {
         word: "to collect / abholen",
@@ -3016,8 +2715,7 @@ const vocabulary = [
         englishPerfect: "collected",
         germanPresent: "holt ab",
         germanImperfect: "holte ab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "abgeholt",
+        germanPerfect: "hat abgeholt",
     },
     {
         word: "to apply (for/on) / bewerben (sich)",
@@ -3026,8 +2724,7 @@ const vocabulary = [
         englishPerfect: "applied",
         germanPresent: "bewirbt",
         germanImperfect: "bewart",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beworben",
+        germanPerfect: "hat beworben",
     },
     {
         word: "to progress / verbessern",
@@ -3036,8 +2733,7 @@ const vocabulary = [
         englishPerfect: "progressed",
         germanPresent: "verbessert",
         germanImperfect: "verbesserte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verbessert",
+        germanPerfect: "hat verbessert",
     },
     {
         word: "to improve / verbessern",
@@ -3046,8 +2742,7 @@ const vocabulary = [
         englishPerfect: "improved",
         germanPresent: "verbessert",
         germanImperfect: "verbesserte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "verbessert",
+        germanPerfect: "hat verbessert",
     },
     {
         word: "to decide / entscheiden (sich)",
@@ -3056,8 +2751,7 @@ const vocabulary = [
         englishPerfect: "decided",
         germanPresent: "entscheidet",
         germanImperfect: "entschied",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "entschieden",
+        germanPerfect: "hat entschieden",
     },
     {
         word: "to desire / begehren",
@@ -3066,8 +2760,7 @@ const vocabulary = [
         englishPerfect: "desired",
         germanPresent: "begehrt",
         germanImperfect: "begehrte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "begehrt",
+        germanPerfect: "hat begehrt",
     },
     {
         word: "to wish / begehren",
@@ -3076,8 +2769,7 @@ const vocabulary = [
         englishPerfect: "wished",
         germanPresent: "begehrt",
         germanImperfect: "begehrte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "begehrt",
+        germanPerfect: "hat begehrt",
     },
     {
         word: "to crave / begehren",
@@ -3086,8 +2778,7 @@ const vocabulary = [
         englishPerfect: "craved",
         germanPresent: "begehrt",
         germanImperfect: "begehrte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "begehrt",
+        germanPerfect: "hat begehrt",
     },
     {
         word: "to invite / einladen",
@@ -3096,8 +2787,7 @@ const vocabulary = [
         englishPerfect: "invited",
         germanPresent: "lädt ein",
         germanImperfect: "lud ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingeladen",
+        germanPerfect: "hat eingeladen",
     },
     {
         word: "to load / einladen",
@@ -3106,8 +2796,7 @@ const vocabulary = [
         englishPerfect: "loaded",
         germanPresent: "lädt ein",
         germanImperfect: "lud ein",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "eingeladen",
+        germanPerfect: "hat eingeladen",
     },
     {
         word: "to complete / erledigen",
@@ -3116,8 +2805,7 @@ const vocabulary = [
         englishPerfect: "completed",
         germanPresent: "erledigt",
         germanImperfect: "erledigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erledigt",
+        germanPerfect: "hat erledigt",
     },
     {
         word: "to finish / erledigen",
@@ -3126,8 +2814,7 @@ const vocabulary = [
         englishPerfect: "finished",
         germanPresent: "erledigt",
         germanImperfect: "erledigte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erledigt",
+        germanPerfect: "hat erledigt",
     },
     {
         word: "to see again / wiedersehen",
@@ -3136,8 +2823,7 @@ const vocabulary = [
         englishPerfect: "seen again",
         germanPresent: "sieht wieder",
         germanImperfect: "sah wieder",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "wiedergesehen",
+        germanPerfect: "hat wiedergesehen",
     },
     {
         word: "to wear / tragen",
@@ -3146,8 +2832,7 @@ const vocabulary = [
         englishPerfect: "worn",
         germanPresent: "trägt",
         germanImperfect: "trug",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "getragen",
+        germanPerfect: "hat getragen",
     },
     {
         word: "to carry / tragen",
@@ -3156,8 +2841,7 @@ const vocabulary = [
         englishPerfect: "carried",
         germanPresent: "trägt",
         germanImperfect: "trug",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "getragen",
+        germanPerfect: "hat getragen",
     },
     {
         word: "to drag / tragen",
@@ -3166,8 +2850,7 @@ const vocabulary = [
         englishPerfect: "dragged",
         germanPresent: "trägt",
         germanImperfect: "trug",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "getragen",
+        germanPerfect: "hat getragen",
     },
     {
         word: "to consult / beraten",
@@ -3176,8 +2859,7 @@ const vocabulary = [
         englishPerfect: "consulted",
         germanPresent: "barät",
         germanImperfect: "beriet",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beraten",
+        germanPerfect: "hat beraten",
     },
     {
         word: "to discuss / beraten",
@@ -3186,8 +2868,7 @@ const vocabulary = [
         englishPerfect: "discussed",
         germanPresent: "berät",
         germanImperfect: "beriet",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beraten",
+        germanPerfect: "hat beraten",
     },
     {
         word: "to avise / beraten",
@@ -3196,8 +2877,7 @@ const vocabulary = [
         englishPerfect: "avised",
         germanPresent: "berät",
         germanImperfect: "beriet",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beraten",
+        germanPerfect: "hat beraten",
     },
     {
         word: "to give advice / beraten",
@@ -3206,8 +2886,7 @@ const vocabulary = [
         englishPerfect: "given advice",
         germanPresent: "berät",
         germanImperfect: "beriet",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beraten",
+        germanPerfect: "hat beraten",
     },
     {
         word: "to advise / beraten",
@@ -3216,8 +2895,7 @@ const vocabulary = [
         englishPerfect: "advised",
         germanPresent: "berät",
         germanImperfect: "beriet",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "beraten",
+        germanPerfect: "hat beraten",
     },
     {
         word: "to think about / überlegen",
@@ -3226,8 +2904,7 @@ const vocabulary = [
         englishPerfect: "thought about",
         germanPresent: "überlegt",
         germanImperfect: "überlegte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "überlegt",
+        germanPerfect: "hat überlegt",
     },
     {
         word: "to contemplate / überlegen",
@@ -3236,7 +2913,6 @@ const vocabulary = [
         englishPerfect: "contemplated",
         germanPresent: "überlegt",
         germanImperfect: "überlegte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
         germanPerfect: "überlegt",
     },
     {
@@ -3246,8 +2922,7 @@ const vocabulary = [
         englishPerfect: "overthought",
         germanPresent: "überlegt",
         germanImperfect: "überlegte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "überlegt",
+        germanPerfect: "hat überlegt",
     },
     {
         word: "to buy from / abkaufen",
@@ -3256,8 +2931,7 @@ const vocabulary = [
         englishPerfect: "bought from",
         germanPresent: "kauft ab",
         germanImperfect: "kaufte ab",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "abgekauft",
+        germanPerfect: "hat abgekauft",
     },
     {
         word: "to own / besitzen",
@@ -3266,8 +2940,7 @@ const vocabulary = [
         englishPerfect: "owned",
         germanPresent: "besitzt",
         germanImperfect: "besaß",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besessen",
+        germanPerfect: "hat besessen",
     },
     {
         word: "to possess / besitzen",
@@ -3276,8 +2949,7 @@ const vocabulary = [
         englishPerfect: "possessed",
         germanPresent: "besitzt",
         germanImperfect: "besaß",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "besessen",
+        germanPerfect: "hat besessen",
     },
     {
         word: "to mean / meinen",
@@ -3286,8 +2958,7 @@ const vocabulary = [
         englishPerfect: "meant",
         germanPresent: "meint",
         germanImperfect: "meinte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeint",
+        germanPerfect: "hat gemeint",
     },
     {
         word: "to believe / meinen",
@@ -3296,8 +2967,7 @@ const vocabulary = [
         englishPerfect: "believed",
         germanPresent: "meint",
         germanImperfect: "meinte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeint",
+        germanPerfect: "hat gemeint",
     },
     {
         word: "to suppose / meinen",
@@ -3306,8 +2976,7 @@ const vocabulary = [
         englishPerfect: "supposed",
         germanPresent: "meint",
         germanImperfect: "meinte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemeint",
+        germanPerfect: "hat gemeint",
     },
     {
         word: "to end / enden",
@@ -3316,8 +2985,7 @@ const vocabulary = [
         englishPerfect: "ended",
         germanPresent: "endet",
         germanImperfect: "endete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geendet",
+        germanPerfect: "hat geendet",
     },
     {
         word: "to conclude / enden",
@@ -3326,8 +2994,7 @@ const vocabulary = [
         englishPerfect: "concluded",
         germanPresent: "endet",
         germanImperfect: "endete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geendet",
+        germanPerfect: "hat geendet",
     },
     {
         word: "to finish / enden",
@@ -3336,8 +3003,7 @@ const vocabulary = [
         englishPerfect: "finished",
         germanPresent: "endet",
         germanImperfect: "endete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geendet",
+        germanPerfect: "hat geendet",
     },
     {
         word: "to stop / aufhören",
@@ -3346,8 +3012,7 @@ const vocabulary = [
         englishPerfect: "stopped",
         germanPresent: "hört auf",
         germanImperfect: "hörte auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgehört",
+        germanPerfect: "hat aufgehört",
     },
     {
         word: "to quit / aufhören",
@@ -3356,8 +3021,7 @@ const vocabulary = [
         englishPerfect: "quitted",
         germanPresent: "hört auf",
         germanImperfect: "hörte auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgehört",
+        germanPerfect: "hat aufgehört",
     },
     {
         word: "to end / aufhören",
@@ -3366,8 +3030,7 @@ const vocabulary = [
         englishPerfect: "ended",
         germanPresent: "hört auf",
         germanImperfect: "hörte auf",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "aufgehört",
+        germanPerfect: "hat aufgehört",
     },
     {
         word: "to warn / mahnen",
@@ -3376,8 +3039,7 @@ const vocabulary = [
         englishPerfect: "warned",
         germanPresent: "mahnt",
         germanImperfect: "mahnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemahnt",
+        germanPerfect: "hat gemahnt",
     },
     {
         word: "to urge / mahnen",
@@ -3386,8 +3048,7 @@ const vocabulary = [
         englishPerfect: "urged",
         germanPresent: "mahnt",
         germanImperfect: "mahnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemahnt",
+        germanPerfect: "hat gemahnt",
     },
     {
         word: "to admonish / mahnen",
@@ -3396,8 +3057,7 @@ const vocabulary = [
         englishPerfect: "admonished",
         germanPresent: "mahnt",
         germanImperfect: "mahnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemahnt",
+        germanPerfect: "hat gemahnt",
     },
     {
         word: "to receive / erhalten",
@@ -3406,8 +3066,7 @@ const vocabulary = [
         englishPerfect: "received",
         germanPresent: "erhält",
         germanImperfect: "erhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erhalten",
+        germanPerfect: "hat erhalten",
     },
     {
         word: "to obtain / erhalten",
@@ -3416,8 +3075,7 @@ const vocabulary = [
         englishPerfect: "obtained",
         germanPresent: "erhält",
         germanImperfect: "erhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erhalten",
+        germanPerfect: "hat erhalten",
     },
     {
         word: "to get / erhalten",
@@ -3426,8 +3084,7 @@ const vocabulary = [
         englishPerfect: "gotten",
         germanPresent: "erhält",
         germanImperfect: "erhielt",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "erhalten",
+        germanPerfect: "hat erhalten",
     },
     {
         word: "to pay attention / achten",
@@ -3436,8 +3093,7 @@ const vocabulary = [
         englishPerfect: "paid attention",
         germanPresent: "achtet",
         germanImperfect: "achtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geachtet",
+        germanPerfect: "hat geachtet",
     },
     {
         word: "to respect / achten",
@@ -3446,8 +3102,7 @@ const vocabulary = [
         englishPerfect: "respected",
         germanPresent: "achtet",
         germanImperfect: "achtete",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "geachtet",
+        germanPerfect: "hat geachtet",
     },
     {
         word: "to warn / warnen",
@@ -3456,8 +3111,7 @@ const vocabulary = [
         englishPerfect: "warned",
         germanPresent: "warnt",
         germanImperfect: "warnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewarnt",
+        germanPerfect: "hat gewarnt",
     },
     {
         word: "to alert / warnen",
@@ -3466,8 +3120,7 @@ const vocabulary = [
         englishPerfect: "alerted",
         germanPresent: "warnt",
         germanImperfect: "warnte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gewarnt",
+        germanPerfect: "hat gewarnt",
     },
     {
         word: "to catch / fangen",
@@ -3476,8 +3129,7 @@ const vocabulary = [
         englishPerfect: "caught",
         germanPresent: "fängt",
         germanImperfect: "fing",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefangen",
+        germanPerfect: "hat gefangen",
     },
     {
         word: "to capture / fangen",
@@ -3486,8 +3138,7 @@ const vocabulary = [
         englishPerfect: "captured",
         germanPresent: "fängt",
         germanImperfect: "fing",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gefangen",
+        germanPerfect: "hat gefangen",
     },
     {
         word: "to realise / merken",
@@ -3496,8 +3147,7 @@ const vocabulary = [
         englishPerfect: "realised",
         germanPresent: "merkt",
         germanImperfect: "merkte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemerkt",
+        germanPerfect: "hat gemerkt",
     },
     {
         word: "to become aware of / merken",
@@ -3506,78 +3156,213 @@ const vocabulary = [
         englishPerfect: "become aware of",
         germanPresent: "merkt",
         germanImperfect: "merkte",
-        germanAuxiliary: "hat", // Correct auxiliary verb
-        germanPerfect: "gemerkt",
+        germanPerfect: "hat gemerkt",
     },
     // Add more words and their conjugations here
 ];
 
-let currentWordIndex = 0;
+let correctAnswers = {};
 
-function displayWord() {
-    const wordElement = document.getElementById("word");
-    wordElement.textContent = vocabulary[currentWordIndex].word;
+// Function to get correct answers from vocabulary based on the word
+function getCorrectAnswers(word) {
+    const entry = vocabulary.find((vocab) => vocab.word.startsWith(word));
+    if (entry) {
+        return {
+            "english-present": entry.englishPresent,
+            "english-preterit": entry.englishPreterit,
+            "english-perfect": entry.englishPerfect,
+            "german-present": entry.germanPresent,
+            "german-imperfect": entry.germanImperfect,
+            "german-perfect": entry.germanPerfect,
+        };
+    }
+    return null;
 }
 
-function checkConjugation() {
-    const englishPresentInput = document.getElementById("english-present").value.trim().toLowerCase();
-    const englishPreteritInput = document.getElementById("english-preterit").value.trim().toLowerCase();
-    const englishPerfectInput = document.getElementById("english-perfect").value.trim().toLowerCase();
-    const germanPresentInput = document.getElementById("german-present").value.trim().toLowerCase();
-    const germanImperfectInput = document.getElementById("german-imperfect").value.trim().toLowerCase();
-    const germanAuxiliaryInput = document.getElementById("german-auxiliary").value.trim().toLowerCase();
-    const germanPerfectInput = document.getElementById("german-perfect").value.trim().toLowerCase();
+// Voice variables
+let googleDeutschVoice = null;
+let googleUSEnglishVoice = null;
 
-    const currentWord = vocabulary[currentWordIndex];
+// Debounce function to limit the rate of function execution
+function debounce(func, delay) {
+    let timeout;
+    return function (...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), delay);
+    };
+}
 
-    // Check all conditions
-    const isEnglishCorrect = englishPresentInput === currentWord.englishPresent.toLowerCase() && englishPreteritInput === currentWord.englishPreterit.toLowerCase() && englishPerfectInput === currentWord.englishPerfect.toLowerCase();
+// Function to check a specific input field and update UI
+function checkAnswer(inputFieldId) {
+    const userInput = document.getElementById(inputFieldId).value.trim();
+    const correctAnswer = correctAnswers[inputFieldId];
+    const checkMark = document.getElementById(`${inputFieldId}-check`);
 
-    const isGermanCorrect =
-        germanPresentInput === currentWord.germanPresent.toLowerCase() &&
-        germanImperfectInput === currentWord.germanImperfect.toLowerCase() &&
-        germanAuxiliaryInput === currentWord.germanAuxiliary.toLowerCase() && // Check auxiliary verb
-        germanPerfectInput === currentWord.germanPerfect.toLowerCase();
+    if (userInput.toLowerCase() === correctAnswer.toLowerCase()) {
+        checkMark.textContent = "✔"; // Display check mark
+        checkMark.style.color = "green"; // Make check mark green
 
-    if (isEnglishCorrect && isGermanCorrect) {
-        alert("Correct!");
+        // Add voice button dynamically if it doesn't already exist
+        if (!document.querySelector(`#${inputFieldId}-voice`)) {
+            const voiceButton = document.createElement("button");
+            voiceButton.id = `${inputFieldId}-voice`;
+            voiceButton.className = "voice-button";
+            voiceButton.innerHTML = "🔊";
+            voiceButton.style.marginLeft = "5px";
+            document.querySelector(`#${inputFieldId}`).insertAdjacentElement("afterend", voiceButton);
+
+            // Set up speech for the new button
+            setupSpeech(`#${inputFieldId}-voice`, `#${inputFieldId}`, inputFieldId.startsWith("german") ? "deutsch" : "english");
+        }
     } else {
-        alert("Incorrect. Try again.");
+        checkMark.textContent = ""; // Clear check mark
+
+        // Remove the voice button if it exists
+        const voiceButton = document.querySelector(`#${inputFieldId}-voice`);
+        if (voiceButton) {
+            voiceButton.remove();
+        }
     }
 }
 
-function nextWord() {
-    // Generate a random index
+// Function to set the desired voices
+function setVoices() {
+    const voices = window.speechSynthesis.getVoices();
+
+    // Find the "Google Deutsch" voice
+    googleDeutschVoice = voices.find((voice) => voice.name === "Google Deutsch");
+    if (!googleDeutschVoice) {
+        console.warn("Google Deutsch voice not found.");
+    }
+
+    // Find the "Google US English" voice
+    googleUSEnglishVoice = voices.find((voice) => voice.name === "Google US English");
+    if (!googleUSEnglishVoice) {
+        console.warn("Google US English voice not found.");
+    }
+}
+
+// Function to handle pronunciation using Web Speech API
+function speak(text, voice) {
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.voice = voice;
+    speechSynthesis.speak(utterance);
+}
+
+// Function to handle speech synthesis for a given button and field for a specific voice
+function setupSpeech(buttonSelector, fieldSelector, voiceType) {
+    const button = document.querySelector(buttonSelector);
+    const field = document.querySelector(fieldSelector);
+
+    if (button && field) {
+        button.addEventListener("click", () => {
+            const speech = new SpeechSynthesisUtterance();
+
+            // Apply the correct voice
+            if (voiceType === "deutsch" && googleDeutschVoice) {
+                speech.voice = googleDeutschVoice;
+            } else if (voiceType === "english" && googleUSEnglishVoice) {
+                speech.voice = googleUSEnglishVoice;
+            }
+
+            speech.text = field.value;
+            window.speechSynthesis.speak(speech);
+        });
+    }
+}
+
+// Function to clear all input fields and reset the check marks
+function clearAllFields() {
+    const fieldsToClear = ["english-present", "english-preterit", "english-perfect", "german-present", "german-imperfect", "german-perfect"];
+
+    fieldsToClear.forEach((fieldId) => {
+        const inputField = document.getElementById(fieldId);
+        const checkMark = document.getElementById(`${fieldId}-check`);
+
+        // Clear the input field
+        inputField.value = "";
+
+        // Clear the check mark
+        checkMark.textContent = "";
+
+        // Remove the voice button if it exists
+        const voiceButton = document.querySelector(`#${fieldId}-voice`);
+        if (voiceButton) {
+            voiceButton.remove();
+        }
+    });
+}
+
+// Function to generate a new word from the vocabulary array and display it
+function generateNewWord() {
+    clearAllFields(); // Clear all fields before generating a new word
+
+    // Select a random word from the vocabulary
     const randomIndex = Math.floor(Math.random() * vocabulary.length);
+    const selectedWord = vocabulary[randomIndex];
 
-    // Ensure the new word is different from the current one
-    while (randomIndex === currentWordIndex && vocabulary.length > 1) {
-        randomIndex = Math.floor(Math.random() * vocabulary.length);
+    // Display the infinitive verb in both languages in the <p id="word"></p> element
+    document.getElementById("word").textContent = selectedWord.word;
+
+    // Update correctAnswers with the selected word's conjugations
+    correctAnswers = getCorrectAnswers(selectedWord.word);
+
+    // Disable the "Next Word" button again
+    const nextWordButton = document.getElementById("next-word-button");
+    nextWordButton.disabled = true;
+    nextWordButton.style.backgroundColor = "gray"; // Gray color for disabled state
+}
+
+// Function to handle form submission and check if all fields are correct
+function handleSubmit() {
+    const fieldsToCheck = ["english-present", "english-preterit", "english-perfect", "german-present", "german-imperfect", "german-perfect"];
+    let allCorrect = true;
+
+    fieldsToCheck.forEach((fieldId) => {
+        const userInput = document.getElementById(fieldId).value.trim();
+        const correctAnswer = correctAnswers[fieldId];
+
+        if (userInput.toLowerCase() !== correctAnswer.toLowerCase()) {
+            allCorrect = false;
+        }
+    });
+
+    if (allCorrect) {
+        alert("All answers are correct! Well done!");
+
+        // Enable and style the "Next Word" button
+        const nextWordButton = document.getElementById("next-word-button");
+        nextWordButton.disabled = false;
+        nextWordButton.style.backgroundColor = "#28a745"; // Green color for enabled state
+    } else {
+        alert("Some answers are incorrect. Please try again.");
     }
-
-    currentWordIndex = randomIndex;
-    displayWord();
-    clearInputs();
 }
 
-function clearInputs() {
-    document.getElementById("english-present").value = "";
-    document.getElementById("english-preterit").value = "";
-    document.getElementById("english-perfect").value = "";
-    document.getElementById("german-present").value = "";
-    document.getElementById("german-imperfect").value = "";
-    document.getElementById("german-auxiliary").value = "";
-    document.getElementById("german-perfect").value = "";
-}
-
-document.getElementById("submit-button").addEventListener("click", () => {
-    checkConjugation();
-    setTimeout(nextWord, 2000); // Move to the next word after 2 seconds
+// Add event listeners to each input field for the "input" event (when typing occurs)
+document.querySelectorAll('input[type="text"]').forEach((inputField) => {
+    inputField.addEventListener(
+        "input",
+        debounce(function () {
+            checkAnswer(this.id);
+        }, 300)
+    ); // 300ms debounce time
 });
 
-document.getElementById("next-word-button").addEventListener("click", () => {
-    nextWord();
+// Add event listeners to voice buttons after setting voices
+window.speechSynthesis.onvoiceschanged = function () {
+    setVoices();
+};
+
+// Event listener for "Next Word" button
+document.getElementById("next-word-button").addEventListener("click", function () {
+    generateNewWord();
 });
 
-// Initialize the first word display
-displayWord();
+// Event listener for "Submit" button
+document.getElementById("submit-button").addEventListener("click", function () {
+    handleSubmit();
+});
+
+// Run initial setup to load the first word
+generateNewWord();
